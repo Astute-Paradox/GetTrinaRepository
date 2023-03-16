@@ -1,0 +1,1854 @@
+where^outside^inside^on^near^next to^far^close to^close by^beside^away^under^over^in^out^infront^behind^above^below^upstairs^up^downstairs^down^gone^comeback^at^dead^died^going^went^go^from^here^orbit^
+location^outside^inside^on^near^next to^far^close to^close by^beside^away^under^over^in^out^infront^behind^above^below^upstairs^up^downstairs^down^gone^comeback^at^dead^died^going^went^go^from^here^orbit^place^position^
+located^outside^inside^on^near^next to^far^close to^close by^beside^away^under^over^in^out^infront^behind^above^below^upstairs^up^downstairs^down^gone^comeback^at^dead^died^going^went^go^from^here^orbit^
+position^outside^inside^on^near^next to^far^close to^close by^beside^away^under^over^in^out^infront^behind^above^below^upstairs^up^downstairs^down^gone^comeback^at^dead^died^going^went^go^from^here^orbit^location^
+called^name^
+when^monday^tuesday^wednesday^thursday^friday^saturday^sunday^january^febuary^march^april^may^june^july^august^september^october^november^december^minute^hour^day^week^month^year^winter^summer^autumn^spring^decade^yesterday^today^tomorrow^ago^evening^afternoon^morning^after^later^tonight^christmas^on^birthday^
+why^because^reason^cause^led to^
+is^are^
+are^is^
+big^diameter^size^large^massive^huge^enormous^immense^gigantic^giant^tremendous^colossal^
+size^big^small^tiny^huge^massive^enormous^tall^large^narrow^
+weight^heavy^light^tiny^pounds^stones^kilo^kilogram^gram^weighs^huge^underweight^obese^
+temperature^hot^cold^warm^humid^freezing^chilly^burning^boiling^frozen^froze^
+have^has^own^had^
+has^have^
+can not^can't^
+weather^snowing^raining^storm^pissing down^sleet^hailstone^windy^sunny^climate^
+emotion^happy^sad^depressed^pleased^fear^joy^hatred^hate^anger^angry^
+feeling^happy^sad^pleased^fear^joy^hated^depressed^chuffed^delighted^fine^bored^frustrated^upset^angry^annoyed^pissed off^content^calm^cold^hot^warm^pissed^bitter^jealous^feel^mood^
+do^want^flew^fly^swam^swim^jump^climb^walk^swing^bark^meow^moo^drank^drink^sing^dive^float^run^ran^work^stand^stood^rode^ride^drive^hop^crawl^spoke^type^clean^wait^learn^talk^shout^written^wrote^teach^fight^
+made of^glass^metal^plastic^steel^iron^tin^nylon^cotton^wool^concrete^rubber^paper^
+made out of^glass^metal^plastic^steel^iron^tin^nylon^cotton^wool^concrete^rubber^paper^
+made from^glass^metal^plastic^steel^iron^tin^nylon^cotton^wool^concrete^rubber^paper^
+old^born^age^
+my^have^
+use^used^
+metal^steel^iron^silver^gold^aluminium^copper^tin^
+had a hit^sang^
+book^novel^large amount of sheets of paper which are bound together and have words written upon them^
+own^have^
+had^have^
+ride^rode^ridden^
+rode^ride^
+ridden^ride^
+run^ran^
+ran^run^
+swim^swam^
+swam^swim^
+fly^flew^flight^
+flew^fly^flight^
+sit^sat^
+sat^sit^
+stand^stood^
+stood^stand^
+fall^fell^tumble^
+fell^fall^fallen^tripped up^stumbled^
+drink^drank^tea^coffee^coke^whisky^coca^cola^pepsi^wine^beer^water^lager^cider^milk^whiskey^alcohol^swallow^
+drank^drink^
+eat^ate^consume^swallow^
+ate^eat^
+sing^sang^sung^
+sang^sing^
+sung^sing^
+steal^stole^stolen^
+stole^steal^
+stolen^steal^
+draw^drew^
+drew^draw^
+spoken^speak^
+speak^spoken^talk^converse^communicate^
+say^said^
+said^say^told^
+told^said^describe^
+day^monday^tuesday^wednesday^thursday^friday^saturday^sunday^daytime^
+shape^circle^circular^square^round^triangular^triangle^oval^disc^pyramid^polyhedron^polygon^hexagon^octagon^box^rectangle^rectangular^cube^form^
+colour^red^yellow^green^cyan^blue^gray^black^white^purple^orange^grey^indigo^silver^gold^brown^turquoise^pink^reddish^yellowish^greenish^blackish^orangish^grayish^greyish^blueish^whitish^goldish^purplish^silverish^brownish^pinkish^
+red^reddish^
+reddish^red^
+blue^blueish^
+blueish^blue^
+green^greenish^
+greenish^green^
+vegetable^carrot^potato^lettuce^cabbage^radish^
+countries^england^america^france^germany^switzerland^sweden^austria^australia^belgium^holland^denmark^norway^ireland^nigeria^kenya^russia^spain^portugal^india^pakistan^north^korea^south^china^taiwan^thailand^cuba^vietnam^ukraine^jordan^jamaica^italy^israel^kuwait^latvia^lebanon^liberia^libya^luxemborg^madagascar^maldives^mexico^moldova^malta^monaco^mongolia^morocco^mozambique^namibia^nepal^netherlands^new^zealand^canada^chile^columbia^bulgaria^brazil^botswana^barbados^cameroon^cambodia^egypt^ethiopia^georgia^greece^hungary^iran^iraq^turkey^tunisia^syria^zimbabwe^
+fruit^apple^orange^banana^tomato^pear^peach^grape^grapefruit^tangerine^satsuma^nectarine^
+usa^united states of america^united states^
+united states of america^usa^
+rodent^mouse^rat^hamster^gerbil^vole^animal^
+bird^chicken^eagle^sparrow^hawk^kestrel^lark^budgie^parrot^pheasant^vulture^pidgeon^falcon^animal^moving target^
+animal^cow^pig^sheep^goat^wolf^bear^stag^dear^elephant^rhinoceros^alligator^crocodile^hippopotamus^giraffe^zebra^antelope^hyena^creature^mammal^organism^beast^organism which feeds on living matter^
+dog^dog^dingo^bulldog^collie^retriever^poodle^setter^alsatian^mastiff^spaniel^animal^expensive burglar alarm^
+cat^cheetah^lion^puma^panther^tabby^leopard^animal^living wallpaper stripper^
+hippopotamus^hippo^
+hippo^hippopotamus^
+rhinoceros^rhino^
+rhino^rhinoceros^
+feel^feeling^felt^touch^
+satan^devil^beelzebub^
+devil^satan^demon^lucifer^beelzebub^prince of darkness^
+beelzebub^satan^devil^
+century^period of 100 years^
+shirt^item of clothing that usually has buttons down the front and covers the upper part of the body^
+happy^pleased^chuffed^joyful^over the moon^delighted^glad^
+pleased^happy^
+chuffed^happy^
+joyful^happy^
+over the moon^happy^
+delighted^happy^
+will^would^
+would^will^
+went^was to go^had gone^
+was to go^went^
+had gone^went^
+felt^feel^was feeling^did feel^
+was feeling^felt^
+did feel^felt^
+were^was^
+was^were^
+programmed^made^
+made^programmed^created^composed^constructed^built^
+created^made^
+composed^made^
+constructed^made^
+built^made^
+due^expected^
+expected^due^anticipate^
+me^i^
+i^me^
+like^want^enjoy^
+want^like^
+smart^intelligent^clever^brainy^ache^
+intelligent^smart^clever^
+clever^smart^intelligent^wise^
+brainy^smart^
+biggest^largest^
+largest^biggest^
+in^the contents of^
+the contents of^in^
+mean^=^
+=^mean^
+football^soccer^footy^large inflated bag of air that is used to distract somebody from kicking i in the knee cap^ball^
+footy^football^
+soccer^football^
+abandon^leave^
+leave^abandon^depart^go away^
+abandoned^left^alone^
+alone^abandoned^by himself^by herself^by themselves^on his own^on her own^on their own^
+left^abandoned^
+abbreviate^shorten^trim^
+abduct^kidnap^make off with^
+make off with^abduct^
+kidnap^abduct^
+abnormal^unusual^peculiar^odd^strange^queer^unnatural^weird^eccentric^bizzare^
+bizzare^abnormal^
+eccentric^abnormal^
+weird^abnormal^
+unnatural^abnormal^
+queer^abnormal^gay^
+strange^abnormal^
+odd^abnormal^
+peculiar^abnormal^
+unusual^abnormal^different^
+abolish^destroy^eliminate^put an end to^
+put an end to^abolish^
+eliminate^abolish^
+destroy^abolish^demolish^wipe out^smash^ruin^annihilate^devastate^vandalize^
+above^overhead^aloft^in the sky^in the heavens^upstairs^
+upstairs^above^
+in the heavens^above^
+in the sky^above^
+aloft^above^
+overhead^above^
+abrupt^sudden^hasty^quick^unexpected^
+unexpected^abrupt^
+quick^abrupt^fast^
+hasty^abrupt^
+sudden^abrupt^
+absent^not here^not present^not attended^
+not attended^absent^
+not present^absent^
+not here^absent^
+absurd^ridiculous^silly^daft^stupid^foolish^idiotic^crazy^nuts^
+nuts^absurd^
+crazy^absurd^insane^
+idiotic^absurd^
+foolish^absurd^
+stupid^absurd^
+daft^absurd^
+silly^absurd^
+ridiculous^absurd^
+abundance^plenty^loads of^
+loads of^abundance^
+plenty^abundance^
+accident^mistake^
+mistake^accident^fault^
+accurate^precise^exact^
+exact^accurate^
+precise^accurate^
+ache^pain^hurt^smart^throb^sting^
+sting^ache^
+throb^ache^pulsate^
+hurt^ache^grief^
+pain^ache^grief^
+achieve^accomplish^complete^fulfil^
+fulfil^achieve^
+complete^achieve^finish^
+accomplish^achieve^
+aquire^get^obtain^gain^
+gain^aquire^
+obtain^aquire^get^
+get^aquire^obtain^collect^
+act^deed^action^undertaking^
+undertaking^act^
+action^act^
+deed^act^
+activate^turn on^switch on^turned on^switched on^
+switched on^activate^
+turned on^activate^
+switch on^activate^
+turn on^activate^
+adjust^modify^regulate^alter^change^adjustment^modification^modified^alteration^
+alteration^adjust^
+modified^adjust^
+modification^adjust^
+adjustment^adjust^
+change^adjust^convert^
+alter^adjust^
+regulate^adjust^
+modify^adjust^convert^
+admit^owns up^own up^confess^confesses^
+confesses^admit^
+confess^admit^
+own up^admit^
+owns up^admit^
+adolescent^teenager^youth^youngster^kid^
+kid^adolescent^
+youngster^adolescent^
+youth^adolescent^boy^
+teenager^adolescent^
+adult^grown up^mature^grownup^
+mature^adult^
+grown up^adult^
+advance^move forward^
+move forward^advance^
+age^lifetime^lifespan^life span^life-span^
+life-span^age^
+life span^age^
+lifespan^age^
+lifetime^age^
+afraid^scared^fearful^fear^
+fearful^afraid^
+scared^afraid^fear^frightened^
+alcohol^beer^booze^drink^
+booze^alcohol^
+beer^alcohol^
+almost^nearly^
+nearly^almost^
+on their own^alone^
+on her own^alone^
+on his own^alone^
+by themselves^alone^
+by herself^alone^
+by himself^alone^
+amazing^wonderful^remarkable^great^fabulous^stunning^awesome^dazzling^astounding^marvellous^
+astounding^amazing^marvellous^
+dazzling^amazing^
+awesome^amazing^
+stunning^amazing^
+fabulous^amazing^
+great^amazing^
+remarkable^amazing^
+wonderful^amazing^marvellous^
+anger^angry^rage^mad^annoyed^fuming^outrage^pissed off^annoy^enraged^furious^
+furious^anger^
+enraged^anger^
+annoy^anger^
+pissed off^anger^
+outrage^anger^
+fuming^anger^
+annoyed^anger^
+mad^anger^
+rage^anger^
+angry^anger^
+beast^animal^
+organism^animal^living form^
+mammal^animal^
+creature^animal^
+announce^make public^make known^
+make known^announce^
+make public^announce^
+answer^reply^respond^replied^
+replied^answer^
+respond^answer^reply^response^
+reply^answer^reaction^respond^
+anticipate^expect^expected^
+expect^anticipate^
+anxious^uneasy^troubled^uncertain^apprehensive^
+apprehensive^anxious^
+uncertain^anxious^
+troubled^anxious^
+uneasy^anxious^
+apologize^say sorry^
+say sorry^apologize^
+applauded^clapped^cheered^applausing^clapping^
+clapping^applauded^
+applausing^applauded^
+cheered^applauded^
+clapped^applauded^
+approve^agree^
+agree^approve^
+argue^quarrel^fight^squabble^argument^quarreling^fighting^
+fighting^argue^
+quarreling^argue^
+argument^argue^quarrel^
+squabble^argue^
+fight^argue^battle^brawl^skirmish^wrestle^
+quarrel^argue^argument^dispute^debate^
+ashamed^embarrassed^humiliated^
+humiliated^ashamed^
+embarrassed^ashamed^
+aritificial^not real^synthetic^fake^false^counterfeit^
+counterfeit^aritificial^
+false^aritificial^
+fake^aritificial^
+synthetic^aritificial^
+not real^aritificial^
+atmosphere^sky^
+sky^atmosphere^
+attach^fasten^join^connect^
+connect^attach^join^
+join^attach^unite^connect^
+fasten^attach^
+attempt^try^
+try^attempt^
+avoid^keep away from^steer clear of^evade^leave alone^
+leave alone^avoid^
+evade^avoid^
+steer clear of^avoid^
+keep away from^avoid^
+awake^woke up^
+woke up^awake^
+awful^bad^terrible^rubbish^crap^horrible^ugly^
+ugly^awful^grotesque^
+horrible^awful^foul^
+crap^awful^
+rubbish^awful^garbage^junk^
+terrible^awful^
+bad^awful^
+baby^child^toddler^infant^
+infant^baby^
+toddler^baby^
+child^baby^human^
+background^history^experience^qualifications^training^
+training^background^
+qualifications^background^
+experience^background^
+history^background^
+backing^support^
+support^backing^
+backwards^reverse^
+reverse^backwards^
+badly^poorly^carelessly^shoddily^inadequaetly^
+inadequaetly^badly^
+shoddily^badly^
+carelessly^badly^
+poorly^badly^ill^
+bare^naked^unclothed^nude^unclad^exposed^
+exposed^bare^
+unclad^bare^
+nude^bare^
+unclothed^bare^
+naked^bare^
+battle^fight^war^wrestle^
+war^battle^
+beach^seashore^shore^
+shore^beach^
+seashore^beach^
+beacon^signal^
+signal^beacon^
+beautiful^attractive^lovely^good looking^pretty^handsome^radiant^gorgeous^
+gorgeous^beautiful^
+radiant^beautiful^
+handsome^beautiful^good looking^attractive^
+pretty^beautiful^cute^
+good looking^beautiful^handsome^
+lovely^beautiful^
+attractive^beautiful^glamorous^handsome^
+become^became^turn into^
+turn into^become^
+became^become^
+beginning^start^outset^
+outset^beginning^
+start^beginning^
+behave^react^
+react^behave^
+believe^think^
+think^believe^
+below^further down^under^downstairs^beneath^
+beneath^below^
+downstairs^below^
+under^below^
+further down^below^
+bend^curve^corner^
+corner^bend^
+curve^bend^
+best^finest^greatest^number one^
+number one^best^
+greatest^best^
+finest^best^
+massive^big^
+colossal^big^
+tremendous^big^
+giant^big^
+gigantic^big^
+immense^big^enormous^
+enormous^big^immense^
+huge^big^large^
+large^big^huge^
+bite^chew^
+chew^bite^
+blade^knife^cutting^
+cutting^blade^
+knife^blade^slash^
+blame^fault^accuse^
+accuse^blame^
+fault^blame^mistake^error^
+blind^can't see^short sighted^
+short sighted^blind^
+can't see^blind^
+bliss^happiness^
+happiness^bliss^
+bomb^explosive^blow up^
+blow up^bomb^explode^
+explosive^bomb^
+boss^supervisor^manager^foreman^director^employer^
+director^boss^
+foreman^boss^
+manager^boss^
+supervisor^boss^
+bollocks^bollox^
+bollox^bollocks^
+boy^lad^youth^young man^schoolboy^
+schoolboy^boy^
+young man^boy^
+lad^boy^guy^
+brave^fearless^bold^courageous^daring^valiant^
+valiant^brave^
+daring^brave^
+courageous^brave^
+bold^brave^
+fearless^brave^
+brawl^fight^
+brew^cup of tea^
+cup of tea^brew^
+bum^arse^backside^rear end^
+rear end^bum^
+backside^bum^
+arse^bum^
+burglar^thief^robber^
+robber^burglar^thief^pickpocket^shoplifter^bandit^
+thief^burglar^robber^
+buy^purchase^
+purchase^buy^
+buyer^purchaser^consumer^customer^
+customer^buyer^
+consumer^buyer^
+purchaser^buyer^
+cab^taxi^
+taxi^cab^
+cabin^hut^shack^
+shack^cabin^hut^
+hut^cabin^shed^shack^shelter^shanty^
+cabinet^cupboard^
+cupboard^cabinet^
+cable^wire^
+wire^cable^
+calculate^compute^reckon^
+reckon^calculate^
+compute^calculate^
+captive^prisoner^convict^inmate^
+convict^captive^inmate^
+prisoner^captive^inmate^
+careful^cautious^
+cautious^careful^
+cargo^shipment^
+shipment^cargo^
+catastrophe^disaster^
+disaster^catastrophe^
+catch^caught^
+caught^catch^
+caution^warning^warn^
+warning^caution^
+chair^seat^armchair^stool^bench^object that is used by a person to rest their legs^
+bench^chair^
+stool^chair^
+armchair^chair^
+seat^chair^
+chaos^confusion^disorder^pandemonium^bedlam^
+bedlam^chaos^
+pandemonium^chaos^
+disorder^chaos^
+confusion^chaos^
+chat^conversation^small talk^gossip^talk^
+gossip^chat^
+small talk^chat^
+conversation^chat^
+cheap^inexpensive^
+inexpensive^cheap^
+choice^selection^choose^select^option^
+select^choice^pick^
+choose^choice^
+selection^choice^
+chop^cut^
+cut^chop^slash^
+wise^clever^
+climate^weather^
+coin^money^cash^
+cash^coin^
+money^coin^
+cold^chilly^frosty^icy^freezing^low temperature^
+low temperature^cold^
+freezing^cold^frosty^polar^
+icy^cold^polar^
+frosty^cold^freezing^
+chilly^cold^
+complicated^complex^
+complex^complicated^
+comprehend^understand^understood^realize^
+realize^comprehend^
+understood^comprehend^
+understand^comprehend^
+consider^think about^
+think about^consider^
+consume^eat^swallow^
+continue^carry on^proceed^resume^
+proceed^continue^
+carry on^continue^resume^
+convert^change^modify^transform^
+transform^convert^
+couch^sofa^settee^
+settee^couch^
+sofa^couch^
+create^invent^construct^make^produce^
+make^create^assemble^build^construct^put together^produce^
+construct^create^make^
+invent^create^
+creator^inventor^invented^
+invented^creator^
+inventor^creator^
+cry^weep^sob^shed tears^
+shed tears^cry^sob^
+sob^cry^weep^blubber^shed tears^snivel^whimper^howl^wail^
+weep^cry^sob^
+curious^inquisitive^interested^
+interested^curious^
+inquisitive^curious^
+cute^pretty^
+dark^unlit^
+unlit^dark^
+data^information^
+information^data^
+daytime^day^
+dance^boogie^
+boogie^dance^
+daylight^sunlight^light^
+light^daylight^
+sunlight^daylight^
+dead^deceased^died^lifeless^
+lifeless^dead^
+died^dead^
+deceased^dead^
+deadly^lethal^dangerous^
+dangerous^deadly^
+lethal^deadly^
+deaf^hard of hearing^
+hard of hearing^deaf^
+decay^rot^
+rot^decay^
+delete^erase^rub out^blot out^
+blot out^delete^
+rub out^delete^
+erase^delete^
+demon^devil^evil spirit^fiend^
+fiend^demon^monster^
+evil spirit^demon^
+demonstrate^show^
+show^demonstrate^display^
+depend^rely^
+rely^depend^depend on^depend upon^
+describe^tell^told^explain^
+explain^describe^
+tell^describe^
+destiny^fate^future^
+future^destiny^
+fate^destiny^
+vandalize^destroy^
+devastate^destroy^
+annihilate^destroy^
+ruin^destroy^spoil^
+smash^destroy^
+wipe out^destroy^
+demolish^destroy^
+destruction^demolition^
+demolition^destruction^
+prince of darkness^devil^
+lucifer^devil^
+devious^sneaky^deceitful^insincere^deceptive^dishonest^shifty^sly^
+sly^devious^
+shifty^devious^
+dishonest^devious^
+deceptive^devious^
+insincere^devious^
+deceitful^devious^
+sneaky^devious^
+diary^appointment book^
+appointment book^diary^
+die^decease^killed^murdered^
+murdered^die^
+killed^die^
+decease^die^
+difficult^hard^tough^
+tough^difficult^ruthless^hard^
+hard^difficult^rigid^stiff^inflexible^tough^
+dirt^soil^mud^
+mud^dirt^
+soil^dirt^
+dirty^grimy^filthy^mucky^unclean^foul^untidy^soiled^
+soiled^dirty^
+untidy^dirty^messy^
+foul^dirty^disgusting^revolting^nauseating^repugnant^repulsive^horrible^
+unclean^dirty^
+mucky^dirty^
+filthy^dirty^
+grimy^dirty^
+disagree^do not agree^
+do not agree^disagree^disapprove^
+disappointed^let down^
+let down^disappointed^
+disapprove^do not agree^
+discovered^found^unearthed^
+unearthed^discovered^
+found^discovered^
+doubt^unsure^doubtful^
+doubtful^doubt^
+unsure^doubt^
+drag^pull^
+pull^drag^tug^
+dread^fear^
+fear^dread^scared^afraid^phobia^
+drop^let go^release^
+release^drop^
+let go^drop^
+drug^medication^medicine^
+medicine^drug^
+medication^drug^
+drunk^intoxicated^tipsy^sloshed^pissed^drank to much^too much to drink^
+too much to drink^drunk^
+drank to much^drunk^
+pissed^drunk^
+sloshed^drunk^
+tipsy^drunk^
+intoxicated^drunk^
+dry^not wet^
+not wet^dry^
+dump^messy place^junk yard^rubbish heap^
+rubbish heap^dump^
+junk yard^dump^
+messy place^dump^
+dungeon^prision^jail^cell^
+cell^dungeon^
+jail^dungeon^prison^
+prision^dungeon^
+easy^simple^
+simple^easy^
+eating^dining^having lunch^having dinner^
+having dinner^eating^
+having lunch^eating^
+dining^eating^
+educate^teach^inform^enlighten^
+enlighten^educate^
+inform^educate^
+teach^educate^instruct^
+elderly^old person^
+old person^elderly^
+emerge^appear^
+appear^emerge^
+employer^boss^
+employee^worker^
+worker^employee^labourer^
+enjoy^appreciate^like^love^relish^take pleasure from^
+take pleasure from^enjoy^
+relish^enjoy^
+love^enjoy^affection^
+appreciate^enjoy^grateful^
+enough^right amount^not want anymore^
+not want anymore^enough^
+right amount^enough^
+entrance^door^
+door^entrance^barrier that can block the opening to a place^
+enviroment^surroundings^
+surroundings^enviroment^
+equal^same as^identical^
+identical^equal^same^
+same as^equal^
+erotic^sexy^sensual^
+sensual^erotic^
+sexy^erotic^
+evidence^proof^
+proof^evidence^
+exit^way out^
+way out^exit^
+expand^make bigger^enlarge^increase^
+increase^expand^grow^grown^
+enlarge^expand^
+make bigger^expand^
+expensive^cost alot^costly^dear^
+dear^expensive^
+costly^expensive^
+cost alot^expensive^
+explode^blow up^
+exterior^outside^
+outside^exterior^outdoor^
+eye^eyeball^
+eyeball^eye^
+fail^not succeed^never succeeded^unsuccessful^
+unsuccessful^fail^
+never succeeded^fail^
+not succeed^fail^
+fan^supporter^groupie^
+groupie^fan^
+supporter^fan^
+far^long way off^
+long way off^far^
+fashion^dress sense^
+dress sense^fashion^
+fast^quick^rapid^speedy^high speed^quickly^
+high speed^fast^
+speedy^fast^
+rapid^fast^
+fat^obese^overweight^tubby^chubby^podgy^
+podgy^fat^
+chubby^fat^
+tubby^fat^
+overweight^fat^
+obese^fat^
+father^dad^daddy^papa^parent^
+papa^father^
+daddy^father^
+dad^father^
+error^fault^
+fee^price^cost^fare^
+fare^fee^
+cost^fee^price^
+price^fee^cost^
+mood^feeling^temper^
+feed^food^
+food^feed^meal^
+stumbled^fell^
+tripped up^fell^
+fallen^fell^
+fetch^bring^
+bring^fetch^
+few^not many^
+not many^few^
+fib^lie^
+lie^fib^
+film^video^movie^
+movie^film^
+video^film^
+finish^stop^end^cease^complete^
+cease^finish^
+end^finish^
+stop^finish^halt^
+fire^flame^blaze^inferno^
+inferno^fire^
+blaze^fire^
+flame^fire^
+fix^repair^
+repair^fix^
+flavour^taste^
+taste^flavour^
+flee^run away^run from^escape^get away^retreat^getaway^
+getaway^flee^
+retreat^flee^
+get away^flee^
+escape^flee^
+run from^flee^
+run away^flee^
+flight^fly^flew^flown^soar^
+soar^flight^
+flown^flight^
+float^hover^glide^
+glide^float^
+hover^float^
+floor^ground^deck^
+deck^floor^
+ground^floor^
+fluid^liquid^watery^
+watery^fluid^
+liquid^fluid^
+forgive^pardon^
+pardon^forgive^
+form^shape^
+former^previous^
+previous^former^
+repulsive^foul^
+repugnant^foul^
+nauseating^foul^
+revolting^foul^
+disgusting^foul^
+fragile^breakable^frail^delicate^flimsy^rickety^
+rickety^fragile^
+flimsy^fragile^
+delicate^fragile^
+frail^fragile^weak^
+breakable^fragile^
+fragment^piece^part^portion^
+portion^fragment^
+part^fragment^
+piece^fragment^
+freedom^independence^liberty^
+liberty^freedom^
+independence^freedom^
+frequently^often^regurlary^over and over^again and again^many times^
+many times^frequently^
+again and again^frequently^
+over and over^frequently^
+regurlary^frequently^
+often^frequently^regularly^
+fresh^new^
+new^fresh^
+friend^pal^mate^chum^companion^buddy^playmate^
+buddy^friend^
+companion^friend^
+chum^friend^
+mate^friend^
+pal^friend^
+friendly^sociable^
+sociable^friendly^
+frighten^scare^alarm^startle^
+startle^frighten^
+alarm^frighten^
+scare^frighten^
+frightening^scary^spooky^terrifying^alarming^shocking^petrifying^horrifying^hair raising^
+hair raising^frightening^
+horrifying^frightening^
+petrifying^frightening^
+shocking^frightening^
+alarming^frightening^
+terrifying^frightening^
+spooky^frightening^
+scary^frightening^
+fun^pleasure^recreation^
+recreation^fun^
+pleasure^fun^
+function^purpose^aim^
+aim^function^
+purpose^function^
+funny^comical^humorous^hilarious^witty^
+witty^funny^
+hilarious^funny^
+humorous^funny^
+comical^funny^
+gadget^device^
+device^gadget^
+gangster^criminal^racketeer^mafioso^gunman^mobster^goon^
+goon^gangster^
+mobster^gangster^
+gunman^gangster^
+mafioso^gangster^
+racketeer^gangster^
+criminal^gangster^
+garbage^rubbish^
+gay^homosexual^queer^faggot^
+faggot^gay^
+homosexual^gay^
+gaze^look upon^look at^view^stare^
+stare^gaze^
+view^gaze^opinion^outlook^
+look at^gaze^watch^
+look upon^gaze^
+genuine^authentic^real^legitimate^
+legitimate^genuine^
+real^genuine^
+authentic^genuine^
+germ^virus^bacteria^bacterium^
+bacterium^germ^
+bacteria^germ^
+virus^germ^
+collect^get^
+gibberish^drivel^nonsense^claptrap^
+claptrap^gibberish^
+nonsense^gibberish^
+drivel^gibberish^
+girl^female^young woman^lass^young lady^
+young lady^girl^
+lass^girl^
+young woman^girl^
+female^girl^
+give^hand over^pass^
+pass^give^
+hand over^give^
+glad^happy^
+glamorous^attractive^
+glance^glimpse^look^
+look^glance^
+glimpse^glance^
+global^worldwide^international^
+international^global^
+worldwide^global^
+globe^world^
+world^globe^
+glossy^shiny^
+shiny^glossy^
+glue^adhesive^sticky^stick^
+stick^glue^
+sticky^glue^
+adhesive^glue^
+god^deity^demigod^
+demigod^god^
+deity^god^
+goodbye^farewell^hasta la vista^ au revoir^cheerio^bye^
+bye^goodbye^
+cheerio^goodbye^
+ au revoir^goodbye^
+hasta la vista^goodbye^
+farewell^goodbye^
+gory^bloody^gruesome^grisly^horrific^
+horrific^gory^
+grisly^gory^
+gruesome^gory^
+bloody^gory^
+grab^snatch^get hold of^
+get hold of^grab^
+snatch^grab^
+grace^elegance^graceful^refined^elegant^
+elegant^grace^
+refined^grace^
+graceful^grace^
+elegance^grace^
+grateful^thankful^appreciate^appreciative^
+appreciative^grateful^
+thankful^grateful^
+graveyard^cemetery^burial ground^
+burial ground^graveyard^
+cemetery^graveyard^
+grief^misery^anguish^suffering^agony^pain^hurt^sadness^sorrow^depression^depressed^unhappy^unhappiness^
+unhappiness^grief^
+unhappy^grief^heartbroken^
+depressed^grief^heartbroken^
+depression^grief^
+sorrow^grief^pity^
+sadness^grief^
+agony^grief^
+suffering^grief^
+anguish^grief^
+misery^grief^
+grip^hold^grasp^
+grasp^grip^
+hold^grip^
+grotesque^ugly^deformed^
+deformed^grotesque^
+grownup^adult^
+guess^speculate^estimate^
+estimate^guess^
+speculate^guess^
+guest^visitor^
+visitor^guest^
+guide^lead^direct^steer^
+steer^guide^
+direct^guide^
+lead^guide^
+guy^man^lad^fella^chap^geezer^bloke^
+bloke^guy^
+geezer^guy^
+chap^guy^
+fella^guy^
+man^guy^human^
+hairless^bald^
+bald^hairless^
+halfwit^dunce^fool^idiot^
+idiot^halfwit^
+fool^halfwit^
+dunce^halfwit^
+hall^corridor^hallway^passage^
+passage^hall^
+hallway^hall^
+corridor^hall^
+hallucination^fantasy^mirage^illusion^delusion^dream^
+dream^hallucination^
+delusion^hallucination^
+illusion^hallucination^
+mirage^hallucination^
+fantasy^hallucination^
+halt^stop^
+hang on^hold on^
+hold on^hang on^
+happen^occur^take place^come to pass^come about^
+come about^happen^
+come to pass^happen^
+take place^happen^
+occur^happen^
+happening^taking place^
+taking place^happening^
+harbour^port^
+port^harbour^
+inflexible^hard^
+stiff^hard^
+rigid^hard^
+hardly^scarcely^barely^
+barely^hardly^
+scarcely^hardly^
+hate^loathe^detest^despise^dislike^do not like^hatred^
+hatred^hate^
+do not like^hate^
+dislike^hate^
+despise^hate^
+detest^hate^
+loathe^hate^
+headache^migraine^
+migraine^headache^
+hear^listen^
+listen^hear^
+heartbroken^unhappy^upset^miserable^depressed^
+miserable^heartbroken^
+upset^heartbroken^
+heat^warmth^hotness^
+hotness^heat^
+warmth^heat^
+heaven^paradise^
+paradise^heaven^
+heavy handed^clumsy^inept^unskilful^
+unskilful^heavy handed^
+inept^heavy handed^
+clumsy^heavy handed^
+hectic^chaotic^
+chaotic^hectic^
+help^assist^lend a hand^
+lend a hand^help^
+assist^help^
+hidden^concealed^hide^
+hide^hidden^
+concealed^hidden^
+hideaway^hiding place^haven^
+haven^hideaway^
+hiding place^hideaway^
+high^tall^
+tall^high^
+hit^strike^smack^knock^whack^bang^thump^punch^
+punch^hit^
+thump^hit^
+bang^hit^
+whack^hit^
+knock^hit^
+smack^hit^slap^
+strike^hit^
+home^house^residence^dwelling^
+dwelling^home^
+residence^home^
+house^home^
+honest^trustworthy^honourable^law abiding^sincere^
+law abiding^honest^
+honourable^honest^
+trustworthy^honest^
+hop^jump^leap^vault^
+vault^hop^
+leap^hop^
+jump^hop^
+hope^wish^
+wish^hope^
+hospital^medical centre^health centre^infirmary^clinic^
+clinic^hospital^
+infirmary^hospital^
+health centre^hospital^
+medical centre^hospital^
+hot^fiery^burning^
+burning^hot^
+fiery^hot^
+hotel^hostel^inn^lodging^motel^bed and breakfast^b&b^
+b&b^hotel^
+bed and breakfast^hotel^
+motel^hotel^
+lodging^hotel^
+inn^hotel^
+hostel^hotel^
+hub^centre^
+centre^hub^
+hug^embrace^cuddle^snuggle^
+snuggle^hug^
+cuddle^hug^
+embrace^hug^
+human^person^individual^man^child^woman^someone^somebody^
+somebody^human^
+someone^human^
+woman^human^
+individual^human^
+person^human^
+humanity^human race^people^society^humankind^mankind^
+mankind^humanity^
+humankind^humanity^
+society^humanity^
+people^humanity^
+human race^humanity^
+humble^modest^
+modest^humble^
+humid^damp^
+damp^humid^wet^
+humour^comedy^
+comedy^humour^
+hungry^famished^starved^starving^ravenous^
+ravenous^hungry^
+starving^hungry^
+starved^hungry^
+famished^hungry^
+hunt^chase^pursue^
+pursue^hunt^
+chase^hunt^
+hurricane^cyclone^tornado^typhoon^whirlwind^twister^storm^gale^
+gale^hurricane^
+storm^hurricane^
+twister^hurricane^
+whirlwind^hurricane^
+typhoon^hurricane^
+tornado^hurricane^
+cyclone^hurricane^
+hurry^rush^
+rush^hurry^
+hush^shush^be quiet^
+be quiet^hush^
+shush^hush^
+shanty^hut^
+shelter^hut^
+shed^hut^
+idea^concept^
+concept^idea^
+idealistic^visionary^
+visionary^idealistic^
+same^identical^
+idolize^adore^admire^
+admire^idolize^
+adore^idolize^
+ill^sick^not well^bad health^sickly.unwell^poorly^out of sorts^
+out of sorts^ill^
+sickly.unwell^ill^
+bad health^ill^
+not well^ill^
+sick^ill^
+illegal^unlawful^against the law^outlawed^prohibited^forbidden^
+forbidden^illegal^
+prohibited^illegal^
+outlawed^illegal^
+against the law^illegal^
+unlawful^illegal^
+illness^sickness^
+sickness^illness^
+imagine^think of^comtemplate^envisage^
+envisage^imagine^
+comtemplate^imagine^
+think of^imagine^
+imitate^mimic^copy^imitation^copying^
+copying^imitate^
+imitation^imitate^
+copy^imitate^
+mimic^imitate^
+imaterical^unimportant^not important^
+not important^imaterical^
+unimportant^imaterical^
+imature^childish^
+childish^imature^
+immediately^at once^instantly^
+instantly^immediately^
+at once^immediately^
+immortal^live forever^undying^eternal^can not die^
+can not die^immortal^
+eternal^immortal^
+undying^immortal^
+live forever^immortal^
+grown^increase^
+grow^increase^
+incredible^unbelievable^beyond belief^
+beyond belief^incredible^
+unbelievable^incredible^
+infer^deduce^
+deduce^infer^
+initial^original^first^
+first^initial^
+original^initial^
+inmate^prisoner^convict^captive^jailbird^
+jailbird^inmate^
+innocent^not guilty^
+not guilty^innocent^
+insane^madness^insanity^demented^psychotic^schizophrenic^lunatic^deranged^maniac^neurotic^crazy^mad as a hatter^loopy^loony^bonkers^mentally ill^
+mentally ill^insane^
+bonkers^insane^
+loony^insane^
+loopy^insane^
+mad as a hatter^insane^
+neurotic^insane^
+maniac^insane^
+deranged^insane^
+lunatic^insane^
+schizophrenic^insane^
+psychotic^insane^
+demented^insane^
+insanity^insane^
+madness^insane^
+insecure^afraid=uncertain^
+afraid=uncertain^insecure^
+inside^interior^contents^
+contents^inside^
+interior^inside^
+inspect^examine^
+examine^inspect^probe^
+instruct^teach^
+instructor^teacher^trainer^tutor^educator^
+educator^instructor^
+tutor^instructor^
+trainer^instructor^
+teacher^instructor^schoolteacher^
+insult^offend^abuse^
+abuse^insult^
+offend^insult^
+intelligence^intellect^brainpower^
+brainpower^intelligence^
+intellect^intelligence^
+interrogating^questioning^
+questioning^interrogating^
+involve^include^
+include^involve^
+prison^jail^
+jewellery^gems^precious stones^jewels^
+jewels^jewellery^
+precious stones^jewellery^
+gems^jewellery^
+job^work^employment^
+employment^job^
+work^job^
+works for^employed by^
+employed by^works for^
+unite^join^
+joker^comedian^funny man^clown^prankster^
+prankster^joker^
+clown^joker^
+funny man^joker^
+comedian^joker^
+jolly^merry^
+merry^jolly^
+jot^write down^make a note of^
+make a note of^jot^
+write down^jot^
+journey^trip^travel^expedition^
+expedition^journey^
+travel^journey^
+trip^journey^
+judge^magistrate^
+magistrate^judge^
+junk^rubbish^waste^litter^debris^scrap^trash^
+trash^junk^
+scrap^junk^
+debris^junk^
+litter^junk^
+waste^junk^
+keep^hang on to^
+hang on to^keep^
+killer^murderer^assassin^slayer^
+slayer^killer^
+assassin^killer^
+murderer^killer^
+kill^murder^slay^execute^assassinate^do away with^
+do away with^kill^
+assassinate^kill^
+execute^kill^
+slay^kill^
+murder^kill^
+knowledge^knowing^awareness^
+awareness^knowledge^
+knowing^knowledge^
+laugh^giggle^snigger^snicker^chuckle^laughter^giggling^
+giggling^laugh^
+laughter^laugh^
+chuckle^laugh^
+snicker^laugh^
+snigger^laugh^
+giggle^laugh^
+lavatory^toilet^loo^bog^
+bog^lavatory^
+loo^lavatory^
+toilet^lavatory^
+lawn^grass^
+grass^lawn^
+go away^leave^
+depart^leave^
+life^living^
+living^life^live^
+limit^limitation^
+limitation^limit^
+little^small^tiny^mini^undersized^dwarf^midget^pygmy^petite^miniature^
+miniature^little^
+petite^little^
+pygmy^little^
+midget^little^
+dwarf^little^
+undersized^little^
+mini^little^
+tiny^little^
+small^little^
+live^living^
+place^location^
+loser^failure^
+failure^loser^
+lottery^raffle^
+raffle^lottery^
+affection^love^
+lure^tempt^
+tempt^lure^
+lunge^thrust^
+thrust^lunge^
+put together^make^produce^
+build^make^
+assemble^make^produce^
+marry^wed^join in matrimony^wedlock^man and wife^tie the knot^married^
+married^marry^
+tie the knot^marry^
+man and wife^marry^
+wedlock^marry^
+join in matrimony^marry^
+wed^marry^
+marvellous^wonderful^astonishing^amazing^astounding^
+astonishing^marvellous^
+massacre^slaughter^carnage^annihilation^
+annihilation^massacre^
+carnage^massacre^
+slaughter^massacre^
+massage^rub^
+rub^massage^
+maybe^perhaps^possibly^
+possibly^maybe^perhaps^
+perhaps^maybe^possibly^
+meadow^field^
+field^meadow^
+meal^food^dinner^supper^breakfast^lunch^tea^
+tea^meal^
+lunch^meal^
+breakfast^meal^
+supper^meal^
+dinner^meal^
+meat^flesh^
+flesh^meat^
+melody^song^tune^music^
+music^melody^
+tune^melody^song^
+song^melody^tune^ditty^
+mighty^powerful^strong^
+strong^mighty^powerful^muscular^
+powerful^mighty^strong^
+military^army^navy^air force^soldier^
+soldier^military^
+air force^military^
+navy^military^
+army^military^
+mirror^reflect^reflection^
+reflection^mirror^
+reflect^mirror^
+moan^complain^
+complain^moan^
+monster^ogre^fiend^troll^dragon^mutant^
+mutant^monster^
+dragon^monster^
+troll^monster^
+ogre^monster^
+mouth^lips^
+lips^mouth^
+mushy^soft^
+soft^mushy^
+musical^tuneful^melodic^harmonious^
+harmonious^musical^
+melodic^musical^
+tuneful^musical^
+must^should^ought^have to^
+have to^must^
+ought^must^
+should^must^
+mystery^mysterious^enigma^baffling^mystery to unknown^
+baffling^mystery^
+enigma^mystery^
+mysterious^mystery^
+nap^sleep^doze^nod^shuteye^
+shuteye^nap^
+nod^nap^
+doze^nap^
+sleep^nap^rest^
+near^close^not far off^not far away^nearby^in the vicinity^
+in the vicinity^near^
+nearby^near^
+not far away^near^
+not far off^near^
+close^near^shut^
+need^require^
+require^need^
+nil^nothing^zero^nought^naught^
+naught^nil^
+nought^nil^
+zero^nil^
+nothing^nil^
+nimble^agile^
+agile^nimble^
+nobody^no one^not anyone^no person^
+no person^nobody^
+not anyone^nobody^
+no one^nobody^
+noise^sound^
+sound^noise^
+noisy^load^deafening^
+deafening^noisy^
+load^noisy^
+nuclear^atomic^
+atomic^nuclear^
+number^numeral^intger^figure^digit^quantity or a symbol that is used to represent a quantity^
+digit^number^
+figure^number^
+intger^number^
+numeral^number^
+oar^paddle^
+paddle^oar^
+ocean^sea^
+sea^ocean^
+regularly^often^
+opinion^view^
+option^choice^
+outdoor^outside^out of doors^
+out of doors^outdoor^
+outlook^view^point of view^viewpoint^
+viewpoint^outlook^
+point of view^outlook^
+package^parcel^
+parcel^package^
+paper^newspaper^tabloid^
+tabloid^paper^
+newspaper^paper^
+parasite^leech^bloodsucker^
+bloodsucker^parasite^
+leech^parasite^
+parent^father^mother^
+mother^parent^
+particle^atom^molecule^
+molecule^particle^
+atom^particle^
+phobia^fear^
+pick^select^
+pierce^puncture^penetrate^
+penetrate^pierce^
+puncture^pierce^
+pistol^gun^handgun^revolver^
+revolver^pistol^
+handgun^pistol^
+gun^pistol^
+pit^hole^shaft^mine^mine shaft^quarry^
+quarry^pit^
+mine shaft^pit^
+mine^pit^
+shaft^pit^
+hole^pit^
+pity^sympathy^commiseration^sorrow^condolence^sympathize^feel for^feel sorry for^
+feel sorry for^pity^
+feel for^pity^
+sympathize^pity^
+condolence^pity^
+commiseration^pity^
+sympathy^pity^
+plague^epidemic^
+epidemic^plague^
+playboy^womanizer^casanova^romeo^lady killer^
+lady killer^playboy^
+romeo^playboy^
+casanova^playboy^
+womanizer^playboy^
+playmate^friend^
+plaything^toy^game^pasttime^
+pasttime^plaything^
+game^plaything^
+toy^plaything^
+playwright^dramatist^scriptwriter^screenwriter^
+screenwriter^playwright^
+scriptwriter^playwright^
+dramatist^playwright^
+plea^request^
+request^plea^
+pleasant^pleasing^nice^
+nice^pleasant^
+pleasing^pleasant^
+pledge^promise^
+promise^pledge^
+plot^scheme^plan^
+plan^plot^
+scheme^plot^
+poem^verse^rhyme^
+rhyme^poem^
+verse^poem^
+poetic^poetry^
+poetry^poetic^
+poke^jab^prod^
+prod^poke^
+jab^poke^
+polar^arctic^antartic^icy^freezing^
+antartic^polar^
+arctic^polar^
+police^constabulary^policemen^policewomen^police officers^boys in blue^cops^fuzz^
+fuzz^police^
+cops^police^
+boys in blue^police^
+police officers^police^
+policewomen^police^
+policemen^police^
+constabulary^police^
+polish^shine^
+shine^polish^sparkle^
+polite^courteous^
+courteous^polite^
+pool^pond^lake^
+lake^pool^
+pond^pool^
+possibility^chance^odds^
+odds^possibility^
+chance^possibility^
+possible^feasible^plausible^
+plausible^possible^
+feasible^possible^
+prefer^favour^like better^like best^fancy^like the most^
+like the most^prefer^
+fancy^prefer^
+like best^prefer^
+like better^prefer^
+favour^prefer^
+prepare^get ready^make ready^
+make ready^prepare^
+get ready^prepare^
+presume^assume^take for granted^
+take for granted^presume^
+assume^presume^
+pride^honour^proud^self esteem^self respect^
+self respect^pride^
+self esteem^pride^
+proud^pride^
+honour^pride^
+prize^reward^award^trophy^
+trophy^prize^
+award^prize^
+reward^prize^
+probably^very likely^
+very likely^probably^
+probe^explore^examine^
+explore^probe^
+produce^make^develop^manufacture^create^assemble^put together^
+manufacture^produce^
+develop^produce^
+proper^right^
+right^proper^
+prostitute^whore^call girl^trollop^harlot^lady of the night^
+lady of the night^prostitute^
+harlot^prostitute^
+trollop^prostitute^
+call girl^prostitute^
+whore^prostitute^
+pulsate^pulse^throb^throbbing^pusling^pulsating^pulsation^
+pulsation^pulsate^
+pulsating^pulsate^
+pusling^pulsate^
+throbbing^pulsate^
+pulse^pulsate^
+purge^clean^
+clean^purge^
+push^shove^
+shove^push^
+debate^quarrel^
+dispute^quarrel^
+quickly^rapidly^swiftly^fast^
+swiftly^quickly^
+rapidly^quickly^
+quiet^silent^silence^
+silence^quiet^
+silent^quiet^
+railway^train^rail^
+rail^railway^
+train^railway^
+rain^drizzle^downpour^shower^cloudburst^rainstorm^
+rainstorm^rain^
+cloudburst^rain^
+shower^rain^
+downpour^rain^
+drizzle^rain^
+raw^uncooked^
+uncooked^raw^
+reaction^response^reply^
+response^reaction^respond^
+recall^remember^recollect^think back to^
+think back to^recall^
+recollect^recall^
+remember^recall^
+reek^stink^smell^
+smell^reek^
+stink^reek^
+depend upon^rely^
+depend on^rely^
+remain^stay^wait^
+wait^remain^
+stay^remain^
+remedy^cure^
+cure^remedy^
+remove^take off^take away^
+take away^remove^
+take off^remove^
+rest^sleep^lie down^
+lie down^rest^
+resume^carry on^continue^
+return^come back^go back^
+go back^return^
+come back^return^
+rich^wealthy^prosperous^well off^
+well off^rich^
+prosperous^rich^
+wealthy^rich^
+rinse^wash^
+wash^rinse^
+rip^tear^torn^
+torn^rip^
+tear^rip^
+rise^get up^arise^standup^
+standup^rise^
+arise^rise^
+get up^rise^
+risk^danger^hazard^
+hazard^risk^
+danger^risk^
+river^stream^waterway^
+waterway^river^
+stream^river^
+bandit^robber^
+shoplifter^robber^
+pickpocket^robber^
+robot^android^humanoid^mechanical man^machine that resembles a human being in one way or another^
+mechanical man^robot^
+humanoid^robot^
+android^robot^
+runner^jogger^sprinter^
+sprinter^runner^
+jogger^runner^
+ruthless^cruel^brutal^tough^heartless^sadistic^
+sadistic^ruthless^
+heartless^ruthless^
+brutal^ruthless^
+cruel^ruthless^
+salary^income^earnings^
+earnings^salary^
+income^salary^
+frightened^scared^
+schoolteacher^teacher^
+selfish^greedy^
+greedy^selfish^
+display^show^
+shut^close^
+sincere^honest^
+skinny^thin^underweight^gaunt^bony^scraggy^lanky^gangly^
+gangly^skinny^
+lanky^skinny^
+scraggy^skinny^
+bony^skinny^
+gaunt^skinny^
+underweight^skinny^
+thin^skinny^
+skirmish^fight^
+slap^smack^spank^
+spank^slap^
+slash^cut^gash^slit^knife^
+slit^slash^
+gash^slash^
+slip^slide^skid^
+skid^slip^
+slide^slip^
+snake^reptile^serpent^viper^slither^
+slither^snake^
+viper^snake^
+serpent^snake^
+reptile^snake^
+snap^break^fracture^snapped^
+snapped^snap^
+fracture^snap^
+break^snap^
+soak^drench^wet^dripping^
+dripping^soak^
+wet^soak^moist^damp^soaked^
+drench^soak^
+wail^sob^
+howl^sob^
+whimper^sob^
+snivel^sob^
+blubber^sob^
+sometimes^occasionally^now and then^now and again^at times^from time to time^every so often^once in a while^
+once in a while^sometimes^
+every so often^sometimes^
+from time to time^sometimes^
+at times^sometimes^
+now and again^sometimes^
+now and then^sometimes^
+occasionally^sometimes^
+ditty^song^
+sore^painful^tender^stinging^hurting^
+hurting^sore^
+stinging^sore^
+tender^sore^
+painful^sore^
+sparkle^shine^glitter^
+glitter^sparkle^
+communicate^speak^
+converse^speak^
+talk^speak^chat^
+split^divided^
+divided^split^
+spoil^ruin^
+spy^double agent^foreign agent^secret agent^undercover agent^
+undercover agent^spy^
+secret agent^spy^
+foreign agent^spy^
+double agent^spy^
+square^rectangular^
+rectangular^square^
+squeeze^squash^crush^
+crush^squeeze^
+squash^squeeze^
+stack^pile^
+pile^stack^
+state^condition^
+condition^state^
+statue^sculpture^statuesque^
+statuesque^statue^
+sculpture^statue^
+stomach^abdomen^belly^gut^tummy^
+tummy^stomach^
+gut^stomach^
+belly^stomach^
+abdomen^stomach^
+story^tale^
+tale^story^
+muscular^strong^
+study^learn^
+learn^study^
+suitcase^bag^
+bag^suitcase^
+sum^total^
+total^sum^
+sure^certain^convinced^positive^
+positive^sure^
+convinced^sure^
+certain^sure^
+swallow^eat^consume^devour^drink^gulp^guzzle^
+guzzle^swallow^
+gulp^swallow^
+devour^swallow^
+sweep^brush^
+brush^sweep^
+temper^mood^
+tidy^neat^
+neat^tidy^
+tilt^lean^slant^
+slant^tilt^
+lean^tilt^
+tired^exhausted^worn out^weary^fatigued^drained^
+drained^tired^
+fatigued^tired^
+weary^tired^
+worn out^tired^
+exhausted^tired^
+touch^feel^
+tug^pull^tow^
+tow^tug^
+tumble^fall^
+teeth^tooth^
+tooth^teeth^
+unlike^different^
+different^unlike^unusual^
+messy^untidy^
+warn^caution^
+watch^observe^look at^
+observe^watch^
+water^h2o^
+h2o^water^
+weak^feeble^frail^powerless^
+powerless^weak^
+feeble^weak^
+wear^put on^
+put on^wear^
+welcome^greet^
+greet^welcome^
+soaked^wet^
+moist^wet^
+whole^entire^
+entire^whole^
+wild^savage^untamed^
+untamed^wild^
+savage^wild^
+wind^breeze^
+breeze^wind^
+labourer^worker^
+wrestle^fight^battle^
+write^scribble^
+scribble^write^
+writer^author^novelist^
+novelist^writer^
+author^writer^
+writing^handwriting^
+handwriting^writing^
+susan^sue^
+sue^susan^
+lesley^les^
+les^lesley^
+david^dave^
+dave^david^
+cathleen^cath^
+cath^cathleen^
+stewart^stew^
+stew^stewart^
+michael^mick^
+mick^michael^
+steven^steve^
+steve^steven^
+thomas^tom^
+tom^thomas^
+andrew^andy^
+andy^andrew^
+valerie^val^
+val^valerie^
+edward^ed^
+ed^edward^
+planet^celestial body that moves in an elliptical orbit round a star^jupiter^saturn^neptune^earth^uranus^venus^mercury^mars^pluto^
+star^celestial body that appears as a luminous point in the night sky^large gaseous body that is naturally luminous from internal nuclear reactions^
+united states^usa^america^
+america^united states^
+human being^highly intelligent two legged animal^
+language^means of communication^
+leg^support that something stands upon^
+arm^flexible part of something that is used to manipulate other things^
+computer^device for storing and processing information^machine for storing and processing data^
+computer keyboard^device for catching crumbs^
+carpet^large piece of soft fabric used to soak up alcohol, vomit and urine^
+joystick^device that is usually used for playing video games^
+fish^cold-blooded animal with gills and fins^
+television^electronic device that receives transmitted images and sounds and reproduces them^
+radio^electronic device that receives transmitted sounds and reproduces them^
+ball^football^
+go around^orbit^
+orbit^go around^
+pub^good place for getting drunk^
+fuck^sexual intercourse^shag^
+sexual intercourse^fuck^shag^
+shag^sexual intercourse^fuck^
+name^word by which something is known^
+ai^artificial intelligence^
+artificial intelligence^ai^
+ascii^american standard code for information interchange^
+american standard code for information interchange^ascii^
+cloud^big white fluffy thing that waits for i to walk out into the open before dripping water onto my head^
+light bulb^glass bulb containing an inert gas and a metal filament, providing light when an electric current is passed through it^
+window^opening to allow light to enter or let the occupants see out^
+alien^person who comes from a foreign country or something that comes from another planet^
+

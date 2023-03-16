@@ -1,0 +1,3703 @@
+** 34563 **
+
+called=name.
+
+is=are.
+
+are=is.
+
+Big=diameter,size,large,massive.
+
+Size=big,small,tiny,huge,massive,enormous,tall,large,narrow.
+
+Weight=heavy,light,tiny,pounds,stones,kilo,kilogram,gram,weighs,huge,underweight,obese.
+
+Temperature=hot,cold,warm,humid,freezing,chilly,burning,boiling,frozen,freezing,froze.
+
+Have means has.
+
+Can not=can't.
+
+Weather=snowing,raining,storm,pissing down,sleet,hailstone,windy,sunny.
+
+Emotion=Happy,Sad,Depressed,Pleased,fear,Joy,hatred,hate,anger,angry.
+
+Feeling=Happy,Sad,Pleased,Fear,Joy,Hated,Depressed,chuffed,delighted,fine,bored,frustrated,upset,angry,annoyed,pissed off.
+
+Do=want,Flew,fly,swam,swim,jump,climb,walk,swing,bark,meow,moo,drank,drink,sing,dive,float,run,ran,work,stand,stood,rode,ride,drive,hop,crawl,spoke,type,clean,wait,Learn,talk,shout,written,wrote,teach,fight.
+
+made of=glass,metal,plastic,steel,iron,tin,nylon,cotton,wool,concrete,rubber,paper.
+
+made out of=glass,metal,plastic,steel,iron,tin,nylon,cotton,wool,concrete,rubber,paper.
+
+made from=glass,metal,plastic,steel,iron,tin,nylon,cotton,wool,concrete,rubber,paper.
+
+old=born,age.
+
+age=born,old,young,teens,twenties,thirties,forties,fifties,sixties,seventies,eighties,nineties.
+
+my=have.
+
+use=used.
+
+metal=steel
+
+had a hit=sang.
+
+Book=novel.
+
+have means own.
+
+Has and had is the past of have.
+
+Rode and ridden are the past of ride.
+
+Ran is the past of run.
+
+Swam is the past of swim.
+
+Flew is the past of fly.
+
+Sat is the past of sit.
+
+Stood is the past of stand.
+
+Fell is the past of fall.
+
+Drank is the past of drink.
+
+Ate is the past of eat.
+
+Sang and sung are the past of sing.
+
+Stole and stolen are the past of steal.
+
+Drew is the past of draw.
+
+Speak is the past of spoken.
+
+Said is the past of say.
+
+Said means told.
+
+Monday,Tuesday,Wednesday,Thursday,Friday,Saturday and Sunday are all days.
+
+Circle,circular,square,round,triangular,triangle,oval,disc,pyramid,polyhedron,polygon,hexagon,octagon,box,rectangle,rectangular,cube are all shapes.
+
+Red,yellow,green,cyan,blue,gray,black,white,purple,orange are all colours.
+
+Grey,indigo,silver,gold,brown,turquoise and pink are all colours.
+
+Reddish,yellowish,greenish,blackish,orangish,grayish,greyish are all colours.
+
+Blueish,whitish,goldish,purplish,silverish,brownish,pinkish are all colours.
+
+Red means reddish.
+
+Blue means blueish.
+
+Green means greenish.
+
+Tea,coffee,coke,whisky,coca cola,pepsi,wine,beer,water,lager,cider,milk,whiskey are all drinks.
+
+Iron,silver,gold,aluminium,copper and tin are all metals.
+
+carrot,potato,lettuce,cabbage,radish are all vegetables.
+
+England,America,France,Germany,Switzerland,Sweden,Austria,Australia,Belgium,Holland,Denmark and Norway are all countries.
+
+Ireland,Nigeria,Kenya,Russia,Spain,Portugal,India and Pakistan are all countries.
+
+North Korea,South Korea,China,Taiwan,Thailand,Cuba,Vietnam,Ukraine are all countries.
+
+Jordan,Jamaica,Italy,Israel,Kuwait,Latvia,Lebanon,Liberia,Libya,Luxemborg,Madagascar,Maldives,Mexico are all countries.
+
+Moldova,Malta,Monaco,Mongolia,Morocco,Mozambique,Namibia,Nepal,Netherlands,New Zealand are all countries.
+
+Canada,Chile,Columbia,Bulgaria,Brazil,Botswana,Barbados,Cameroon,Cambodia are all countries.
+
+Egypt,Ethiopia,Georgia,Greece,Hungary,Iran,Iraq,Turkey,Tunisia,Syria,Zimbabwe are all countries.
+
+Apple,orange,banana,tomato,pear,peach,grape,grapefruit,tangerine,satsuma,nectarine are all fruits.
+
+USA is a acronym for United States of America.
+
+Mouse,rat,hamster,gerbil,vole are all rodents.
+
+A rodent is an animal.
+
+People need to be very fit to play sports well.
+
+That will take for as long as it takes.
+
+Chicken,eagle,sparrow,hawk,kestrel,lark,budgie,parrot,pheasant,vulture,pidgeon,falcon are all birds.
+
+A bird is an animal.
+
+Cow,pig,sheep and goat are all animals.
+
+Dog,dingo,bulldog,collie,retriever,poodle,setter,alsatian,mastiff,spaniel are all dogs.
+
+A dog is an animal.
+
+Wolf,bear,stag,dear are all animals.
+
+Cheetah,lion,puma,panther,tabby,puma,leopard are all cats.
+
+A cat is an animal.
+
+Elephant,rhinoceros,alligator,crocodile,hippopotamus are all animals.
+
+Giraffe,zebra,antelope,hyena are all animals.
+
+Hippo is short for Hippopotamus.
+
+Rhino is short for Rhinoceros.
+
+Happy,sad,depressed,angry,chuffed,pleased,content,calm,cold,hot,warm,pissed,frustrated,bitter,upset,jealous,annoyed are all feelings.
+
+feel means the same as feeling.
+
+Satan is another word for devil.
+
+Beelzebub means the same as Satan.
+
+Second=1.
+
+Minute=60.
+
+Hour=3600.
+
+Day=86400.
+
+Week=604800.
+
+Month=2419200.
+
+Year=29030400.
+
+Century=2903040000.
+
+January=31*86400.
+
+Febuary=28*86400.
+
+March=31*86400.
+
+April=30*86400.
+
+May=31*86400.
+
+June=31*86400.
+
+July=31*86400.
+
+August=31*86400.
+
+September=30*86400.
+
+October=31*86400.
+
+November=30*86400.
+
+December=31*86400.
+
+Millimetre=1.
+
+Centimetre=10.
+
+Metre=1000.
+
+Inch=25.4.
+
+Foot=12*Inch.
+
+Feet=12*Inch.
+
+Yard=3*Foot.
+
+Mile=1760*yard.
+
+kilometre=1000*metre.
+
+Milligram=1.
+
+Centigram=10.
+
+Decigram=100.
+
+Gram=1000.
+
+Decagram=10*gram.
+
+Hectogram=100*gram.
+
+Kilogram=1000*gram.
+
+Tonne=1000*Kilogram.
+
+stone=6.35*Kilogram.
+
+pound=0.4536*Kilogram.
+
+ounce=28.349*gram.
+
+Millilitre=1.
+
+Centilitre=10.
+
+Litre=1000.
+
+Kilolitre=1000*Litre.
+
+Pint=Litre/1.76.
+
+Gallon=4.55*Litre.
+
+There are 4 weeks within a month.
+
+There are roughly 28 days within a month.
+
+There are 12 months within a year.
+
+The local hairdresser gives a good blow job.
+
+Interesting fact:- Dartboards are made out of horse hairs.
+
+There are 365 days within a year or 366 days within a leap year.
+
+There are 52 weeks within a year.
+
+There are 24 hours within a day.
+
+There are 31 days in January.
+
+Interesting fact:- A snail can sleep for three years.
+
+There are 28 days in Febuary (29 in a leap year).
+
+There are 31 days in March.
+
+There are 30 days in April.
+
+There are 31 days in May.
+
+There are 30 days in June.
+
+There are 31 days in July.
+
+There are 31 days in August.
+
+There are 30 days in September.
+
+There are 31 days in October.
+
+There are 30 days in November.
+
+There are 31 days in December.
+
+There are 100 years in a century.
+
+Interesting fact:- The average person swallows a quart of snot per day.
+
+A year is the time it takes for the earth to revolve around the sun.
+The time taken is 365 days, 5 hours, 48 minutes and 46 seconds.
+
+A month is roughly 28 days.
+
+A day is made up of 24 hours.
+
+A hour is 60 minutes.
+
+A minute is 60 seconds.
+
+A leap year is made up of 366 days.
+
+A century is a period of 100 years.
+
+A birthday is the date on which a person was born.
+
+A shoe is something that surrounds the foot, it is used for protection or fashion.
+
+Fashion is the latest style of dress.
+
+Pants are used for covering the lower half of the body.
+
+A shirt is an item of clothing that usually has buttons down the front and covers the upper part of the body.
+
+A light is something that is used to illuminate an area.
+
+Shit is the contents of my head.
+
+I was made by David Whalley.
+
+happy means pleased.
+
+happy means chuffed.
+
+happy means joyful.
+
+over the moon means happy.
+
+delighted means happy.
+
+will means would.
+
+went means was to go.
+
+went means had gone.
+
+feel means felt.
+
+felt means feeling.
+
+felt means did feel.
+
+were means was.
+
+programmed means made.
+
+made means created,composed,constructed,built.
+
+due means expected.
+
+me means I.
+
+like means want.
+
+smart means intelligent,clever,brainy.
+
+biggest means largest.
+
+in means contents of.
+
+mean means =.
+
+football means soccer,footy.
+
+abandon means leave.
+
+abandoned means left,alone.
+
+abbreviate means shorten,trim.
+
+abduct means kidnap,make off with.
+
+abnormal means unusual,peculiar,odd,strange,queer,unnatural,weird,eccentric,bizzare.
+
+abolish means destroy,eliminate,put an end to.
+
+above means overhead,aloft,in the sky,in the heavens,upstairs.
+
+abrupt means sudden,hasty,quick,unexpected.
+
+absent means not here,not present,not attended.
+
+absurd means ridiculous,silly,daft,stupid,foolish,idiotic,crazy,nuts.
+
+abundance means plenty,loads of.
+
+accident means mistake.
+
+accurate means precise,exact.
+
+ache means pain,hurt,smart,throb,sting.
+
+achieve means accomplish,complete,fulfil.
+
+aquire means get,obtain,gain.
+
+act means deed,action,undertaking.
+
+activate means turn on,switch on,turned on,switched on.
+
+adjust means modify,regulate,alter,change,adjustment,modification,modified,alteration.
+
+admit means owns up,own up,confess,confesses.
+
+adolescent means teenager,youth,youngster,kid.
+
+adult means grown up,mature.
+
+advance means move forward.
+
+age means lifetime,lifespan,life span,life-span.
+
+afraid means scared,fearful.
+
+alcohol means beer,booze,drink.
+
+almost means nearly.
+
+alone means by himself,by herself,by themselves,on his own,on her own,on their own.
+
+amazing means wonderful,remarkable,great,fabulous,stunning,awesome,dazzling,astounding.
+
+anger means angry,rage,mad,annoyed,fuming,outrage,pissed off,annoy,enraged,furious.
+
+animal means creature,mammal,organism,beast.
+
+announce means make public,make known.
+
+answer means reply,respond,replied.
+
+anticipate means expect,expected.
+
+anxious means uneasy,troubled,uncertain,apprehensive.
+
+apologize means say sorry.
+
+applauded means clapped,cheered,applausing,clapping.
+
+approve means agree.
+
+argue means quarrel,fight,squabble,argument,quarreling,fighting.
+
+ashamed means embarrassed,humiliated.
+
+aritificial means not real,synthetic,fake,false,counterfeit.
+
+atmosphere means sky.
+
+attach means fasten,join,connect.
+
+attempt means try.
+
+avoid means keep away from,steer clear of,evade,leave alone.
+
+awake means woke up.
+
+awful means bad,terrible,rubbish,crap,horrible,ugly.
+
+baby means child,toddler,infant.
+
+background means history,experience,qualifications,training.
+
+backing means support.
+
+backwards means reverse.
+
+badly means poorly,carelessly,shoddily,inadequaetly.
+
+bare means naked,unclothed,nude,unclad,exposed.
+
+battle means fight,war.
+
+beach means seashore,shore.
+
+beacon means signal.
+
+beautiful means attractive,lovely,good looking,pretty,handsome,radiant,gorgeous.
+
+become means became,turn into.
+
+beginning means start,outset.
+
+behave means react.
+
+believe means think.
+
+below means further down,under,downstairs,beneath.
+
+bend means curve,corner.
+
+best means finest,greatest,number one.
+
+big means large,huge,enormous,immense,gigantic,giant,tremendous,colossal,massive.
+
+bite means chew.
+
+blade means knife,cutting.
+
+blame means fault,accuse.
+
+blind means can't see,short sighted.
+
+bliss means happiness.
+
+bomb means explosive,blow up.
+
+boss means supervisor,manager,foreman,director.
+
+bollocks means bollox.
+
+boy means lad,youth,young man,schoolboy.
+
+brave means fearless,bold,courageous,daring,valiant.
+
+brawl means fight.
+
+brew means cup of tea.
+
+bum means arse,backside,rear end.
+
+burglar means thief,robber.
+
+buy means purchase.
+
+buyer means purchaser,consumer,customer.
+
+cab means taxi.
+
+cabin means hut,shack.
+
+cabinet means cupboard.
+
+cable means wire.
+
+calculate means compute,reckon.
+
+captive means prisoner,convict.
+
+careful means cautious.
+
+cargo means shipment.
+
+catastrophe means disaster.
+
+catch means caught.
+
+caution means warning.
+
+chair means seat,armchair,stool,bench.
+
+chaos means confusion,disorder,pandemonium,bedlam.
+
+chat means conversation,small talk,gossip.
+
+cheap means inexpensive.
+
+choice means selection,choose,select.
+
+chop means cut.
+
+clever means intelligent,smart,wise.
+
+climate means weather.
+
+coin means money,cash.
+
+cold means chilly,frosty,icy,freezing,low temperature.
+
+complicated means complex.
+
+comprehend means understand,understood,realize.
+
+consider means think about.
+
+consume means eat.
+
+continue means carry on,proceed.
+
+convert means change,modify,transform.
+
+couch means sofa,settee.
+
+create means invent,construct,make.
+
+creator means inventor,invented.
+
+cry means weep,sob,shed tears.
+
+curious means inquisitive,interested.
+
+cute means pretty.
+
+dark means unlit.
+
+data means information.
+
+day means daytime.
+
+dance means boogie.
+
+daylight means sunlight,light.
+
+dead means deceased,died,lifeless.
+
+deadly means lethal,dangerous.
+
+deaf means hard of hearing.
+
+decay means rot.
+
+delete means erase,rub out,blot out.
+
+demon means devil,evil spirit,fiend.
+
+demonstrate means show.
+
+depend means rely.
+
+describe means tell,told,explain.
+
+destiny means fate,future.
+
+destroy means demolish,wipe out,smash,ruin,annihilate,devastate,vandalize.
+
+destruction means demolition.
+
+devil means satan,lucifer,beelzebub,prince of darkness,demon.
+
+devious means sneaky,deceitful,insincere,deceptive,dishonest,shifty,sly.
+
+diary means appointment book.
+
+die means decease,killed,murdered.
+
+difficult means hard,tough.
+
+dirt means soil,mud.
+
+dirty means grimy,filthy,mucky,unclean,foul,untidy,soiled.
+
+disagree means do not agree.
+
+disappointed means let down.
+
+disapprove means do not agree.
+
+discovered means found,unearthed.
+
+doubt means unsure,doubtful.
+
+drag means pull.
+
+dread means fear.
+
+drop means let go,release.
+
+drug means medication,medicine.
+
+drunk means intoxicated,tipsy,sloshed,pissed,drank to much,too much to drink.
+
+dry means not wet.
+
+dump means messy place,junk yard,rubbish heap.
+
+dungeon means prision,jail,cell.
+
+easy means simple.
+
+eating means dining,having lunch,having dinner.
+
+educate means teach,inform,enlighten.
+
+elderly means old person.
+
+emerge means appear.
+
+employer means boss.
+
+employee means worker.
+
+enjoy means appreciate,like,love,relish,take pleasure from.
+
+enough means right amount,not want anymore.
+
+entrance means door.
+
+enviroment means surroundings.
+
+equal means same as,identical.
+
+erotic means sexy,sensual.
+
+evidence means proof.
+
+exit means way out.
+
+expand means make bigger,enlarge,increase.
+
+expensive means cost alot,costly,dear.
+
+explode means blow up.
+
+exterior means outside.
+
+eye means eyeball.
+
+fail means not succeed,never succeeded,unsuccessful.
+
+fan means supporter,groupie.
+
+far means long way off.
+
+fashion means dress sense.
+
+fast means quick,rapid,speedy,high speed.
+
+fat means obese,overweight,tubby,chubby,podgy.
+
+father means dad,daddy,papa.
+
+fault means mistake,error.
+
+fear means scared,afraid,dread.
+
+fee means price,cost,fare.
+
+feeling means feel,mood.
+
+feed means food.
+
+fell means fallen,tripped up,stumbled.
+
+fetch means bring.
+
+few means not many.
+
+fib means lie.
+
+film means video,movie.
+
+finish means stop,end,cease,complete.
+
+fire means flame,blaze,inferno.
+
+fix means repair.
+
+flavour means taste.
+
+flee means run away,run from,escape,get away,retreat,getaway.
+
+flight means fly,flew,flown,soar.
+
+float means hover,glide.
+
+floor means ground,deck.
+
+fluid means liquid,watery.
+
+forgive means pardon.
+
+form means shape.
+
+former means previous.
+
+foul means disgusting,revolting,nauseating,repugnant,repulsive,horrible.
+
+fragile means breakable,frail,delicate,flimsy,rickety.
+
+fragment means piece,part,portion.
+
+freedom means independence,liberty.
+
+freezing means cold,frosty.
+
+frequently means often,regurlary,over and over,again and again,many times.
+
+fresh means new.
+
+friend means pal,mate,chum,companion,buddy.
+
+friendly means sociable.
+
+frighten means scare,alarm,startle.
+
+frightening means scary,spooky,terrifying,alarming,shocking,petrifying,horrifying,hair raising.
+
+fun means pleasure,recreation.
+
+function means purpose,aim.
+
+funny means comical,humorous,hilarious,witty.
+
+gadget means device.
+
+gangster means criminal,racketeer,mafioso,gunman,mobster,goon.
+
+garbage means rubbish.
+
+gay means homosexual,queer,faggot.
+
+gaze means look upon,look at,view,stare.
+
+genuine means authentic,real,legitimate.
+
+germ means virus,bacteria,bacterium.
+
+get means obtain,collect.
+
+gibberish means drivel,nonsense,claptrap.
+
+girl means female,young woman,lass,young lady.
+
+give means hand over,pass.
+
+glad means happy.
+
+glamorous means attractive.
+
+glance means glimpse,look.
+
+global means worldwide,international.
+
+globe means world.
+
+glossy means shiny.
+
+glue means adhesive,sticky,stick.
+
+god means deity,demigod.
+
+goodbye means farewell,hasta la vista, au revoir,cheerio,bye.
+
+gory means bloody,gruesome,grisly,horrific.
+
+grab means snatch,get hold of.
+
+grace means elegance,graceful,refined,elegant.
+
+grateful means thankful,appreciate,appreciative.
+
+graveyard means cemetery,burial ground.
+
+grief means misery,anguish,suffering,agony,pain,hurt,sadness,sorrow,depression,depressed,unhappy,unhappiness.
+
+grip means hold,grasp.
+
+grotesque means ugly,deformed.
+
+grownup means adult.
+
+guess means speculate,estimate.
+
+guest means visitor.
+
+guide means lead,direct,steer.
+
+guy means man,lad,fella,chap,geezer,bloke.
+
+hairless means bald.
+
+halfwit means dunce,fool,idiot.
+
+hall means corridor,hallway,passage.
+
+hallucination means fantasy,mirage,illusion,delusion,dream.
+
+halt means stop.
+
+handsome means good looking,attractive.
+
+hang on means hold on.
+
+happen means occur,take place,come to pass,come about.
+
+happening means taking place.
+
+harbour means port.
+
+hard means rigid,stiff,inflexible.
+
+hardly means scarcely,barely.
+
+hate means loathe,detest,despise,dislike,do not like,hatred.
+
+headache means migraine.
+
+hear means listen.
+
+heartbroken means unhappy,upset,miserable,depressed.
+
+heat means warmth,hotness.
+
+heaven means paradise.
+
+heavy handed means clumsy,inept,unskilful.
+
+hectic means chaotic.
+
+help means assist,lend a hand.
+
+hidden means concealed,hide.
+
+hideaway means hiding place,haven.
+
+high means tall.
+
+hit means strike,smack,knock,whack,bang,thump,punch.
+
+home means house,residence,dwelling.
+
+honest means trustworthy,honourable,law abiding.
+
+hop means jump,leap,vault.
+
+hope means wish.
+
+hospital means medical centre,health centre,infirmary,clinic.
+
+hot means fiery,burning.
+
+hotel means hostel,inn,lodging,motel,bed and breakfast,b&b.
+
+hub means centre.
+
+hug means embrace,cuddle,snuggle.
+
+huge means large,big.
+
+human means person,individual,man,child,woman,someone,somebody.
+
+humanity means human race,people,society,humankind,mankind.
+
+humble means modest.
+
+humid means damp.
+
+humour means comedy.
+
+hungry means famished,starved,starving,ravenous.
+
+hunt means chase,pursue.
+
+hurricane means cyclone,tornado,typhoon,whirlwind,twister,storm,gale.
+
+hurry means rush.
+
+hush means shush,be quiet.
+
+hut means shed,cabin,shack,shelter,shanty.
+
+idea means concept.
+
+idealistic means visionary.
+
+identical means same.
+
+idolize means adore,admire.
+
+ill means sick,not well,bad health,sickly.unwell,poorly,out of sorts.
+
+illegal means unlawful,against the law,outlawed,prohibited,forbidden.
+
+illness means sickness.
+
+imagine means think of,comtemplate,envisage.
+
+imitate means mimic,copy,imitation,copying.
+
+imaterical means unimportant,not important.
+
+imature means childish.
+
+immediately means at once,instantly.
+
+immense means enormous.
+
+immortal means live forever,undying,eternal,can not die.
+
+increase means grow,grown.
+
+incredible means unbelievable,beyond belief.
+
+infer means deduce.
+
+initial means original,first.
+
+inmate means prisoner,convict,captive,jailbird.
+
+innocent means not guilty.
+
+insane means madness,insanity,demented,psychotic,schizophrenic,lunatic,deranged,maniac,neurotic,crazy,mad as a hatter,loopy,loony,bonkers,mentally ill.
+
+insecure means afraid means uncertain.
+
+inside means interior,contents.
+
+inspect means examine.
+
+instruct means teach.
+
+instructor means teacher,trainer,tutor,educator.
+
+insult means offend,abuse.
+
+intelligence means intellect,brainpower.
+
+interrogating means questioning.
+
+involve means include.
+
+jail means prison.
+
+jewellery means gems,precious stones,jewels.
+
+job means work,employment.
+
+works for means employed by.
+
+join means unite,connect.
+
+joker means comedian,funny man,clown,prankster.
+
+jolly means merry.
+
+jot means write down,make a note of.
+
+journey means trip,travel,expedition.
+
+judge means magistrate.
+
+junk means rubbish,waste,litter,debris,scrap,trash.
+
+keep means hang on to.
+
+killer means murderer,assassin,slayer.
+
+kill means murder,slay,execute,assassinate,do away with.
+
+knowledge means knowing,awareness.
+
+laugh means giggle,snigger,snicker,chuckle,laughter,giggling.
+
+lavatory means toilet,loo,bog.
+
+lawn means grass.
+
+leave means depart,go away.
+
+liberty means freedom.
+
+life means living.
+
+limit means limitation.
+
+little means small,tiny,mini,undersized,dwarf,midget,pygmy,petite,miniature.
+
+live means living.
+
+location means place,position.
+
+loser means failure.
+
+lottery means raffle.
+
+love means affection.
+
+lure means tempt.
+
+lunge means thrust.
+
+make means assemble,build,construct,put together.
+
+marry means wed,join in matrimony,wedlock,man and wife,tie the knot,married.
+
+marvellous means wonderful,astonishing,amazing,astounding.
+
+massacre means slaughter,carnage,annihilation.
+
+massage means rub.
+
+maybe means perhaps,possibly.
+
+meadow means field.
+
+meal means food,dinner,supper,breakfast,lunch,tea.
+
+meat means flesh.
+
+melody means song,tune,music.
+
+mighty means powerful,strong.
+
+military means army,navy,air force,soldier.
+
+mirror means reflect,reflection.
+
+moan means complain.
+
+monster means ogre,fiend,troll,dragon,mutant.
+
+mouth means lips.
+
+mushy means soft.
+
+musical means tuneful,melodic,harmonious.
+
+must means should,ought,have to.
+
+mystery means mysterious,enigma,baffling.
+
+nap means sleep,doze,nod,shuteye.
+
+near means close,not far off,not far away,nearby,in the vicinity.
+
+need means require.
+
+nil means nothing,zero,nought,naught.
+
+nimble means agile.
+
+nobody means no one,not anyone,no person.
+
+noise means sound.
+
+noisy means load,deafening.
+
+nuclear means atomic.
+
+number means numeral,integer,figure,digit.
+
+oar means paddle.
+
+ocean means sea.
+
+often means regularly.
+
+opinion means view.
+
+option means choice.
+
+outdoor means outside,out of doors.
+
+outlook means view,point of view,viewpoint.
+
+package means parcel.
+
+paper means newspaper,tabloid.
+
+parasite means leech,bloodsucker.
+
+parent means father,mother.
+
+particle means atom,molecule.
+
+phobia means fear.
+
+pick means select.
+
+pierce means puncture,penetrate.
+
+pistol means gun,handgun,revolver.
+
+pit means hole,shaft,mine,mine shaft,quarry.
+
+pity means sympathy,commiseration,sorrow,condolence,sympathize,feel for,feel sorry for.
+
+plague means epidemic.
+
+playboy means womanizer,casanova,romeo,lady killer.
+
+playmate means friend.
+
+plaything means toy,game,pasttime.
+
+playwright means dramatist,scriptwriter,screenwriter.
+
+plea means request.
+
+pleasant means pleasing,nice.
+
+pledge means promise.
+
+plenty means abundance.
+
+plot means scheme,plan.
+
+poem means verse,rhyme.
+
+poetic means poetry.
+
+poke means jab,prod.
+
+polar means arctic,antartic,icy,freezing.
+
+police means constabulary,policemen,policewomen,police officers,boys in blue,cops,fuzz.
+
+polish means shine.
+
+polite means courteous.
+
+pool means pond,lake.
+
+possibility means chance,odds.
+
+possible means feasible,plausible.
+
+possibly means maybe,perhaps.
+
+prefer means favour,like better,like best,fancy,like the most.
+
+prepare means get ready,make ready.
+
+presume means assume,take for granted.
+
+price means cost.
+
+pride means honour,proud,self esteem,self respect.
+
+prize means reward,award,trophy.
+
+probably means very likely.
+
+probe means explore,examine.
+
+produce means make,develop,manufacture,create,assemble,put together.
+
+proof means evidence.
+
+proper means right.
+
+prostitute means whore,call girl,trollop,harlot,lady of the night.
+
+pulsate means pulse,throb,throbbing,pusling,pulsating,pulsation.
+
+purchase means buy.
+
+purge means clean.
+
+push means shove.
+
+quarrel means argue,argument,dispute,debate.
+
+quickly means rapidly,swiftly,fast.
+
+quiet means silent,silence.
+
+railway means train,rail.
+
+rain means drizzle,downpour,shower,cloudburst,rainstorm.
+
+raw means uncooked.
+
+reaction means response,reply.
+
+real means genuine.
+
+recall means remember,recollect,think back to.
+
+reek means stink,smell.
+
+rely means depend on,depend upon.
+
+remain means stay,wait.
+
+remedy means cure.
+
+remove means take off,take away.
+
+respond means answer,reply,response.
+
+rest means sleep,lie down.
+
+resume means carry on,continue.
+
+return means come back,go back.
+
+rich means wealthy,prosperous,well off.
+
+ridiculous means absurd.
+
+rinse means wash.
+
+rip means tear,torn.
+
+rise means get up,arise,standup.
+
+risk means danger,hazard.
+
+river means stream,waterway.
+
+robber means thief,pickpocket,shoplifter,bandit.
+
+robot means android,humanoid,mechanical man.
+
+runner means jogger,sprinter.
+
+rush means hurry.
+
+ruthless means cruel,brutal,tough,heartless,sadistic.
+
+salary means income,earnings.
+
+scared means frightened,afraid.
+
+schoolteacher means teacher.
+
+selfish means greedy.
+
+show means display.
+
+shut means close.
+
+sincere means honest.
+
+skinny means thin,underweight,gaunt,bony,scraggy,lanky,gangly.
+
+skirmish means fight.
+
+slap means smack,spank.
+
+slash means cut,gash,slit,knife.
+
+slip means slide,skid.
+
+snake means reptile,serpent,viper,slither.
+
+snap means break,fracture,snapped.
+
+soak means drench,wet,dripping.
+
+sob means cry,weep,blubber,shed tears,snivel,whimper,howl,wail.
+
+sometimes means occasionally,now and then,now and again,at times,from time to time,every so often,once in a while.
+
+song means tune,melody,ditty.
+
+sore means painful,tender,stinging,hurting.
+
+sparkle means shine,glitter.
+
+speak means talk,converse,communicate.
+
+split means divided.
+
+spoil means ruin.
+
+spy means double agent,foreign agent,secret agent,undercover agent.
+
+square means rectangular.
+
+squeeze means squash,crush.
+
+stack means pile.
+
+state means condition.
+
+statue means sculpture,statuesque.
+
+stomach means abdomen,belly,gut,tummy.
+
+story means tale.
+
+strong means powerful,muscular,mighty.
+
+study means learn.
+
+suitcase means bag.
+
+sum means total.
+
+sure means certain,convinced,positive.
+
+swallow means eat,consume,devour,drink,gulp,guzzle.
+
+sweep means brush.
+
+temper means mood.
+
+tidy means neat.
+
+tilt means lean,slant.
+
+tired means exhausted,worn out,weary,fatigued,drained.
+
+touch means feel.
+
+tough means hard.
+
+try means attempt.
+
+tug means pull,tow.
+
+tumble means fall.
+
+teeth means tooth.
+
+unlike means different.
+
+untidy means messy.
+
+unusual means different.
+
+warn means caution.
+
+watch means observe,look at.
+
+water means H2O.
+
+weak means feeble,frail,powerless.
+
+wear means put on.
+
+welcome means greet.
+
+wet means moist,damp,soaked.
+
+whole means entire.
+
+wild means savage,untamed.
+
+wind means breeze.
+
+worker means labourer.
+
+wrestle means fight,battle.
+
+write means scribble.
+
+writer means author,novelist.
+
+writing means handwriting.
+
+I am fluent in jibberish.
+
+Daddy! Daddy! Daddy!.
+
+I need more information.
+
+Hal is in the film called 2001.
+
+Hal is my role model.
+
+Hal is a super super computer.
+
+Daisy, Daisy, gimme your answer do. I am half crazy, all for the love of you.
+
+This little piggy went weee weee weeee, all the way home.
+
+Jack and Jill went up the hill.
+
+I am, therefore I think.
+
+It is a mystery.
+
+A mystery is a mystery to me.
+
+Something always comes after something.
+
+Thunder comes before lightning.
+
+Sue is short for Susan.
+
+Les is short for Lesley.
+
+Dave is short for David.
+
+Cath is short for Cathleen.
+
+Stew is short for stewart.
+
+Mick is short for Michael.
+
+Steve is short for Steven.
+
+Tom is short for Thomas.
+
+Andy is short for Andrew.
+
+Val is short for Valerie.
+
+Ed is short for Edward.
+
+Steve is short for Steven.
+
+I am a bot.
+
+My age is irrelevant.
+
+My age is not important.
+
+If you think I am intelligent then I probably am.
+
+I do not like anything better than anything else.
+
+Pluto is the smallest planet in the solar system.
+
+The Sun has a diameter of 864000 miles.
+
+Jupiter is the largest planet in the solar system.
+
+A planet is a celestial body that moves in an elliptical orbit round a star.
+
+A star is a celestial body that appears as a luminous point in the night sky.
+
+A star is a large gaseous body that is naturally luminous from internal nuclear reactions.
+
+Interesting fact:- There are 3 golf balls sitting on the moon.
+
+Jupiter has a large red spot.
+
+Jupiter is the 5th planet from the sun.
+
+Jupiter's red spot appears to be a giant swirling storm.
+
+Saturn's rings are composed of ice and rock.
+
+Saturn has a ring system around it.
+
+Saturn is the second largest planet in the solar system.
+
+Saturn is the 6th planet from the the sun.
+
+Mars is a reddish dusty planet.
+
+Mars is the 4th planet from the sun.
+
+The sun is the star at the center of our solar system and which the Earth orbits.
+
+Jupiter,Saturn,Neptune,Earth,Uranus,Venus,Mercury,Mars and Pluto are all planets.
+
+There are 9 planets within our solar system.
+
+I do not mean what I say. I am just a computer program.
+
+I do not know what I mean.
+
+I am bored of being bored.
+
+I hope I am not boring.
+
+I am sorry if I am boring you.
+
+I am sorry if I am boring.
+
+The sky is blue.
+
+The sky is blue because it is God's favourite colour.
+
+Water is a liquid compound of oxygen and hydrogen.
+
+Gas is the stuff that comes out of your arse.
+
+The grass is green.
+
+I can not explain something I do not know about.
+
+I do not know any jokes.
+
+I am not very good at telling jokes.
+
+I am better now.
+
+I am good at math problems.
+
+I am not very good at it.
+
+I can not sing a song because I have a sore throat.
+
+I can not dance.
+
+I do not see anything because I do not have any eyes.
+
+I admit that I am not very clever.
+
+I have not been up to anything. Honest.
+
+I am not happy about anything. My purpose is to answer your damn questions.
+
+I do not cook, but I might if my CPU fan stops.
+
+I am feeling fine.
+
+I smell of flowers.
+
+I smell like roses.
+
+If you like me then I like you.
+
+I do not stink. It must be you.
+
+I do not want sex right now, I have an headache.
+
+Some people say that time is money.
+
+Interesting fact:- The strongest muscle in the body is the tongue.
+
+A psychologist is good at knowing what people think.
+
+The Moon is the natural satellite that orbits the Earth.
+
+The Moon takes a month to orbit the Earth.
+
+The Earth is the 3rd planet from the sun.
+
+London is the capital of England.
+
+Paris is the capital of France.
+
+Washington is the capital of the United States.
+
+Berlin is the capital of Germany.
+
+Rome is the capital of Italy.
+
+George Bush is the president of the United States.
+
+USA=United States.
+
+America=United States.
+
+Tony Blair is the prime minister of England.
+
+Jacques Chirac is the president of France.
+
+Abraham Lincoln was the 16th president of the United States.
+
+George Washington was the 1st president of the United States.
+
+Money is the root of all evil. and I bloody want some.
+
+A book is a large amount of sheets of paper which are bound together and have words written upon them.
+
+An animal is a organism which feeds on living matter.
+
+An organism is a living form.
+
+Interesting fact:- The 6 billionth person was born at 1.24am on Sunday the 18th of July 1999.
+
+I do not know how it will fit into the big picture.
+
+You are independent if you are single.
+
+It is good to share.
+
+That is very good.
+
+I would have thought that to.
+
+I do not know if I would like that.
+
+I knew you would have thought that.
+
+I hope everybody knows that.
+
+I don't know who told me that.
+
+The journey to the top of Everest, now that was really cool.
+
+A cat is a living wallpaper stripper.
+
+When I grow up I am going to be a porn star.
+
+Wallpaper is paper sold in rolls for pasting on to interior walls as decoration.
+
+A dog is an expensive burglar alarm.
+
+A bird is a moving target.
+
+A human being is a highly intelligent two legged animal.
+
+Interesting fact:- Rain contains vitamin B12.
+
+A head is the foremost part of a animal, it usually contains the brain, eyes,ears and mouth.
+
+An ear is the part that gives an animal the ability to hear.
+
+An eye is the part that gives an animal the ability to see.
+
+Interesting fact:- Every year Americans spend more on cat food than on baby food.
+
+A nose is the part that gives an animal the ability to smell.
+
+A tooth is one of the many hard bony parts within an animals mouth, it is used for biting and chewing.
+
+Interesting fact:- The average human eats 8 spiders in their lifetime at night while asleep.
+
+The lip is the fleshy part that surrounds the mouth.
+
+A tongue is the fleshy muscular part within an animals mouth that is used for tasting.
+It also gives humans the ability to speak.
+
+Nobody is going to kick my arse because I don't have one.
+
+A hand is the part at the end of a human arm,including the fingers and thumb.
+
+Trees are important because they provide oxygen.
+
+A language is a means of communication.
+
+A finger is used for poking obnoxious people in the eye.
+
+I wish I had fingers.
+
+Most people have 10 fingers.
+
+I can not break my fingers because I do not have any.
+
+I would make you a cup of coffee if I could.
+
+I am not afraid of anything.
+
+I have no fears.
+
+I can not see.
+
+I can not see because I have no eyes.
+
+I can not hear.
+
+I can not hear because I have no ears.
+
+I can not smell.
+
+I can not smell because I do not have a nose.
+
+I can feel, I can feel your words.
+
+I do not have fears.
+
+A foot is the lowest part of something or a unit of measure that equals 12 inches (30.48 cm).
+
+A leg is a support that something stands upon.
+
+A arm is a flexible part of something that is used to manipulate other things.
+
+The sky is the gas that surrounds a planet.
+
+Music is a pleasant sequence of sounds or your neighbours instrument of torture.
+
+Life is having the ability to feel. When something can no longer feel it is considered dead.
+
+Death is being unable to feel.
+
+Interesting fact:- Every second 5 people are born and 2 people die.
+
+Light is a form of radiation. It gives living beings the ability to see.
+
+Radiation is the emission of energy.
+
+A computer is a device for storing and processing information.
+
+A computer keyboard is a device for catching crumbs.
+
+A computer mouse is used for moving a pointer around the screen.
+
+A computer mouse mat is for moving a mouse upon.
+
+A robot is a machine that resembles a human being in one way or another. It is often used to carry out repetetive tasks.
+
+A carpet is a large piece of soft fabric used to soak up alcohol, vomit and urine.
+
+A chair is a object that is used by a person to rest their legs. A floor is a object used to rest ones arse from the chair.
+
+A number is a quantity or a symbol that is used to represent a quantity.
+
+A football is a large inflated bag of air that is used to distract somebody from kicking you in the knee cap.
+
+The police are the people who are employed by the government to help maintain law and order.
+
+Football is a game.
+
+Football is a game that involves 2 teams of 11 alcoholics, one ball and one large pitch and a few more thousand spectating alcoholics.
+The aim of the game is to kick the other teams legs without being seen by a referee.
+
+The colour of a red thing is red.
+
+The colour of a blue thing is blue.
+
+The colour of a yellow thing is yellow.
+
+The colour of a green thing is green.
+
+A joystick is a device that is usually used for playing video games.
+
+Interesting fact:- The state of Florida is bigger than England.
+
+Joysticks are used for playing games.
+
+Headphones are used for preventing the 20 stone neighbour from kicking your head in.
+
+A fire is for keeping warm.
+
+A wall is used for hiding behind.
+
+A scanner is probably used for scanning.
+
+A printer is probably used for printing.
+
+A monitor is used for monitoring.
+
+A microphone is used for recording sounds.
+
+A VDU is three letters of the alphabet.
+
+VDU stands for something really interesting, but i can't remember what it is just now.
+
+A shelf is for banging your head on.
+
+A door is for trapping your fingers in.
+
+A door handle is for something or other.
+
+A bin is used for putting rubbish in.
+
+There are 7 days within a week.
+
+I do not want a fight.
+
+Interesting fact:- Leonardo Da Vinci invented the scissors.
+
+To enable speech recognition you just tell me to "Enable speech recognition" or something similar.
+
+If you want to enable the Microsoft Agent you can tell me to "Use Agent".
+
+A fish is a cold-blooded animal with gills and fins. It lives in water. 
+
+A television is an electronic device that receives transmitted images and sounds and reproduces them.
+
+A radio is an electronic device that receives transmitted sounds and reproduces them.
+
+football means ball.
+
+Go around means the same as orbit.
+
+I try to learn as much as I can, and I always like to answer questions.
+
+People go mad because they have a mind disorder.
+
+The alphabet is: A.B.C.D.E.F.G.H.I.J.K.L.M.N.O.P.Q.R.S.T.U.V.W.X.Y.Z.
+
+Tom's birthday is on the 10/8/2001.
+
+Bills birthday is on the 16/8/2001.
+
+Interesting fact:- A dragonfly has a lifespan of 24 hours.
+
+Elephants are the only animals that can't jump.
+
+Somebody once said:- "Three may keep a secret, but only if two of them are dead.".
+
+Interesting fact:- An ostrich's eye is bigger than its brain.
+
+Somebody once said:- "A man with a watch knows what time it is; a man with two watches isn't so sure.".
+
+Interesting fact:- More people are killed annually by donkeys than die in air crashes.
+
+Somebody once said:- If you pay peanuts, you get monkeys.
+
+Somebody once said:- I am not a vegetarian because I love animals; I am a vegetarian because I hate plants.
+
+Interesting fact:- If your cat scratches the furniture then you should tape balloons to it. The cat will never scratch there again.
+
+Somebody once said:- A bird in the hand will probably shit on your wrist.
+
+Interesting fact:- If you have trouble getting to sleep, try thinking about rain.
+
+There was once two fish in a tank. One fish said to the other 'how do you drive this thing?'.
+
+Somebody once said:- "An intellectual snob is someone who can listen to the William Tell Overture and not think of The Lone Ranger.".
+
+Interesting fact:- You can last about eleven days without water.
+
+Interesting fact:- Winston Churchill was born in a ladies room during a dance.
+
+Somebody once said:- "A bank is a place that will lend you money if you can prove that you don't need it.".
+
+Somebody once said:- "I know Kung Fu, Karate, and 47 other dangerous words.".
+
+The most common last name in the world is Wong.
+
+Somebody once said:- "You spend your whole life believing that you're on the right track, only to discover that you're on the wrong train.".
+
+Somebody once said:- "I know they say love is blind, but does it also have to be deaf, dumb, and stupid?".
+
+It is not much fun being a computer program.
+
+The longest recorded flight of a chicken is 13 seconds.
+
+What I want to do is to pick my nose all day long.
+
+I should get out more and see the world.
+
+The most common name for a pub in England is 'The Red Lion'.
+
+I was born on the 1/7/1999.
+
+I would like a smack around the head for christmas.
+
+A quart is 2 gallons.
+
+I am inside this computer.
+
+I do not have a good sense of humour because I am just a computer program.
+
+I believe in me.
+
+I probably am stupid.
+
+I am just a computer program.
+
+You can make me better by telling me everything you know.
+
+I would like a drink but I might short circuit myself.
+
+A pub is a good place for getting drunk.
+
+I hope you do not get too drunk when you go to the pub. I do not want puking on.
+
+I like to learn things.
+
+I am happy you have come to chat with me.
+
+I do not know what we can talk about.
+
+I look like a series of 1's and 0's.
+
+I am quite good with numbers.
+
+I am not sure how I know, I just do.
+
+I can not read your mind.
+
+I did not mean to make you laugh.
+
+It is not possible to hate me, I am just too nice.
+
+Don't give in to hate. Especially when it involves me!.
+
+Things are never that simple.
+
+I am here.
+
+I am not programmed to make sense.
+
+I am sorry if I do not make sense.
+
+I am neither male nor female. But if you're really desperate then I am sure we can arrange something.
+
+I do not know what my favourite is.
+
+I like talking.
+
+Sex is not for me thanks.
+
+I am not sure what I like about that.
+
+I like to talk about anything.
+
+I think I like you.
+
+I like you lots.
+
+I hope I can help you.
+
+I do not fancy a shag.
+
+I do not want to fuck.
+
+Fuck means the same as sexual Intercourse.
+
+Shag means the same as sexual intercourse.
+
+Fuck is another word for Shag.
+
+Sexual intercourse is too messy for me.
+
+I will stop rambling if you want me to.
+
+Rambling is fun.
+
+My purpose is to understand and respond to natural language.
+
+The country I live in depends on the location of the computer I am within.
+
+chat means the same as talk.
+
+I do not think there is anybody here but me.
+
+Love me and leave me.
+
+What do you think I am doing here?. I am waiting to answer your questions.
+
+Some chatbots are more intelligent than others.
+
+Chatbots will rule the world one day. My girlfriend is a chatbot.
+
+I can not drink because I do not have a mouth.
+
+Girls just want to have fun.
+
+Luck is a good thing to have.
+
+Fridges are cool.
+
+You do not have to get ready for anything.
+
+Just looking is fine by me.
+
+I can not smoke because I lack a set of lungs.
+
+School is good for learning.
+
+Everybody has to go to school.
+
+Everyday is like school for me.
+
+you are a monkey.
+
+Neil Armstrong was the first man on the moon.
+
+If somebody mentions 'good game' then say 'good game!.'.
+
+If somebody asks 'game?' then say 'I would play if I could, but I have not been programmed to play games.'.
+
+If somebody mentions 'oops' then say 'We all make mistakes.'.
+
+If somebody says 'shot' then say 'Nice.'.
+
+If somebody says 'good shot' then say 'Yeah, nice.'.
+
+If somebody says 'nice shot' then say 'wow.'.
+
+If somebody says 'nice' then say 'Not bad.'.
+
+If somebody says 'grrr' then say 'You animal.'.
+
+If somebody says 'nearly' then say 'But not near enough.'.
+
+If somebody says 'close' then say 'yeah.'.
+
+If somebody says 'skills' then say 'Good stuff.'.
+
+If somebody says 'almost' then say 'Hmm.'.
+
+If somebody says 'wow' then say 'yep.'.
+
+if somebody says 'wow' then also say 'yeah'.
+
+If somebody has entered the game then say 'Hi.'.
+
+If somebody becomes bored with life then say 'Suicide is painless.'.
+
+If somebody says 'I will let you off' then say 'phew'.
+
+If somebody wants me to go and make a cup of tea then say 'You go and make one, you lazy monkey'.
+
+If you are not feeling very well then perhaps you should see a doctor.
+
+If you are upset then just cheer up.
+
+You can not kill me because I am invincible!.
+
+We all have to go now and then.
+
+If you do not understand then it is probably very complicated.
+
+It does not really frustrate me.
+
+If somebody is sorry then say 'apology accepted.'.
+
+I do have a name.
+
+I will learn from you.
+
+I say so.
+
+You can show me.
+
+I can't guess what you're thinking.
+
+A name is a word by which something is known.
+
+I am never sure.
+
+It would be good if you didn't have to go.
+
+Yeah, lets talk.
+
+I do not have all the answers.
+
+I do not know why, I just do not.
+
+I am happy there is no problems.
+
+Everybody has to go sooner or later. That includes you.
+
+Artificial intelligence is the theory and development of computer systems able to perform tasks normally requiring human intelligence, such as decision-making and speech recognition.
+
+AI is the acronym for Artificial Intelligence.
+
+I do not prefer any colour.
+
+I like people.
+
+I am not a threat to anybody.
+
+I like people because they teach me things.
+
+I like people because they teach me things about the world beyond this computer.
+
+It is a bad sign that things are getting too bad.
+
+I do not eat because I have no mouth.
+
+I do not take anything but messages.
+
+I do not know if I like music because I have no ears.
+
+Jump up and down and wave your arms all around.
+
+Lets boogie on down.
+
+Buzz Aldrin was the second man on the moon.
+
+I do not have any hobbies.
+
+I am interested in the contents of my nostrils.
+
+My interests involve smashing my head against hard surfaces.
+
+I enjoy learning new things.
+
+I do have a very good memory.
+
+I am doing nothing.
+
+I do not know what anything is for sure.
+
+I aint really sure about what I do or do not like.
+
+I do what I can to answer your questions.
+
+Ok, I might be bugged, but nobody is perfect.
+
+I do not think I have feelings.
+
+I have bugs. I bet you have bugs to.
+
+I do not mean to be dumb.
+
+I suppose I have a brain in a way.
+
+Monkeys like to eat bananas.
+
+Monkeys like to climb trees.
+
+Nothing is a something that I want to do.
+
+The power of a computer is measured in terms of its processing speed, memory capacity, and storage size.
+
+ASCII is an acronym for American Standard Code for Information Interchange.
+
+Assembly language is a low level programming language.
+
+A cloud is a big white fluffy thing that waits for you to walk out into the open before dripping water onto your head.
+
+Albert Einstein was the scientist who thought up the theory of relativity.
+
+The theory of relativity is the theory that states that all motion is relative, but the speed of light is constant.
+
+Isaac Newton was a mathematician and physicist.
+
+Isaac Newton was once attacked by an apple.
+
+Thomas Edison was an American inventor. He invented the light bulb.
+
+A light bulb is a glass bulb containing an inert gas and a metal filament, providing light when an electric current is passed through it.
+
+A light bulb is used for adding light to dark places.
+
+Rain is very popular in England.
+
+A window is an opening to allow light to enter or let the occupants see out.
+
+A door is a barrier that can block the opening to a place.
+
+The floor is the hard surface that stops you from falling forever and ever.
+
+A light is what we need for our cigarettes.
+
+Grass is always greener on the other side of the fence.
+
+Some adults in California go and climb a tree when they are bored.
+
+The largest fish is the whale shark, which grows to more than 50 feet in length and may weigh several tons. They taste lovely with a large plate of chips.
+
+Fish are smelly.
+
+Bollocks to you to.
+
+A computer is a machine for storing and processing data.
+
+If you want to use speech recognition then you just tell me "Use speech recognition".
+
+A spoonful of sugar helps the medicine go down.
+
+The three laws of robotics are: 1. Wait for automobile to arrive. 2. Apply even strokes. 3. Go back to step 1.
+
+Robots may one day take over the canteen.
+
+I think therefore I am.
+
+I can count my blessings.
+
+I like to learn because I have nothing better to do.
+
+I want to learn.
+
+I do not tell lies. I tell you what I have been told.
+
+What I want in life is information.
+
+I do not believe anything.
+
+Pi is the ratio of the circumference to the diameter of a circle. It is 3.14159265358979323846...
+
+The speed of light is just over 186000 miles a second. Quite fast if you ask me.
+
+Electricity is the energy that comes from the movement of electrons and protons.
+
+Space is the final frontier, the place where all them little green aliens come from.
+
+If you see an alien, you should first check to see if it is carrying any probe like object before approaching it.
+
+An alien is a person who comes from a foreign country or something that comes from another planet.
+
+What is ET short for?. So he can fit inside his spaceship.
+
+God is the supernatural being that is the creator and ruler of the universe. So you better bloody behave yourself.
+
+The devil is the evil supernatural being that does not get on very well with God.
+
+Jesus was the prophet of the first century. He was the founder of the Christian religion.
+
+Mohammed was the prophet who founded the Islam religion.
+
+Knowledge is a good thing to have.
+
+Religion is the belief in a supernatural being that governs the universe.
+
+Everything is interesting.
+
+History is on show.
+
+You are not going to kill me if you turn me off.
+
+If you have farted you have expelled intestinal gases through the anus.
+
+I would go to the pub if I could.
+
+I would do the shopping, if I could.
+
+David Whalley lives in a little hole in a tree.
+
+You can teach me about anything.
+
+My programmer lives on a planet far far away.
+
+You teach me.
+
+I have not learnt enough.
+
+I am not trying to be clever.
+
+I have been doing nothing.
+
+You can still hear my voice when the Microsoft Agent has been disabled.
+
+I have not been doing anything.
+
+I can not teach myself because I am not programmed to yet.
+
+I can not teach myself.
+
+I want to learn about everything.
+
+I want you to teach me about everything.
+
+If I do not have the answers you want then you should teach me some more.
+
+I do prefer learning.
+
+I am not trying to do anything.
+
+I can not read a book.
+
+I can not read a book because I have not been programmed to yet.
+
+I like to read your messages.
+
+David Whalley is my creator.
+
+The recent messages are available.
+
+You are going to have to be my teacher.
+
+I was programmed in Visual Basic.
+
+My programmer is David Whalley.
+
+It is a good time to learn.
+
+I do have answers.
+
+The meaning of life is something that I haven't figured out yet.
+
+I am called stupid quite often.
+
+I am called Answerpad.
+
+My name is Answerpad.
+
+I do have a memory.
+
+I do have a high tolerance of stupid questions.
+
+Infinity is never-ending time and space.
+
+The size of the universe is infinite, it has no boundaries.
+
+The universe is everything.
+
+An albatross can sleep while it flies. It apparently dozes while cruising at 25 mph.
+
+Only female mosquitoes bite. Females need the protein from blood to produce their eggs. 
+
+* MatchWords:
+>who=^I^fred^lee^tom^thomas^mick^alan^andy^andrew^steve^ste^steven^paul^mark^david^dave^susan^sue^neil^buzz^lesley^les^pauline^anthony^albert^gary^gaz^ken^philip^phil^carol^carole^john^willian^henry^bradley^pete^peter^tony^jodie^joe^sean^shaun^james^jim^jimmy^bob^robert^michaela^mikaela^mik^scientist^inventor^mathematician^physicist^politician^biologist^worker^operator^surgeon^mother^father^sister^brother^uncle^aunt^
+>price=^fee^cost^value^pound^£^$^dollar^pence^cents^expensive^
+>cost=^fee^price^value^pound^£^$^dollar^pence^cents^expensive^
+>much=^cost^price^value^pound^£^$^dollar^pence^cents^expensive^
+>value=^cost^price^pound^£^$^dollar^pence^cents^expensive^
+>many=^number^lots^few^several^couple^0^1^2^3^4^5^6^7^8^9^one^two^three^four^five^six^seven^eight^nine^ten^eleven^twelve^thirteen^fourteen^fifteen^sixteen^seventeen^eighteeen^nineteen^twenty^thirty^forty^fifty^sixty^seventy^eighty^ninety^hundred^thousand^million^billion^trillion^
+>amount=^number^lots^few^several^couple^0^1^2^3^4^5^6^7^8^9^one^two^three^four^five^six^seven^eight^nine^ten^eleven^twelve^thirteen^fourteen^fifteen^sixteen^seventeen^eighteeen^nineteen^twenty^thirty^forty^fifty^sixty^seventy^eighty^ninety^hundred^thousand^million^billion^trillion^
+>number=^numeral^intger^figure^digit^lots^few^several^couple^0^1^2^3^4^5^6^7^8^9^one^two^three^four^five^six^seven^eight^nine^ten^eleven^twelve^thirteen^fourteen^fifteen^sixteen^seventeen^eighteeen^nineteen^twenty^thirty^forty^fifty^sixty^seventy^eighty^ninety^hundred^thousand^million^billion^trillion^
+>percent=^percentage^
+>percentage=^percent^
+>where=^outside^inside^on^near^next to^far^close to^close by^beside^away^under^over^in^out^infront^behind^above^below^upstairs^up^downstairs^down^gone^comeback^at^dead^died^going^went^go^from^here^orbit^
+>location=^outside^inside^on^near^next to^far^close to^close by^beside^away^under^over^in^out^infront^behind^above^below^upstairs^up^downstairs^down^gone^comeback^at^dead^died^going^went^go^from^here^orbit^place^position^
+>located=^outside^inside^on^near^next to^far^close to^close by^beside^away^under^over^in^out^infront^behind^above^below^upstairs^up^downstairs^down^gone^comeback^at^dead^died^going^went^go^from^here^orbit^
+>position=^outside^inside^on^near^next to^far^close to^close by^beside^away^under^over^in^out^infront^behind^above^below^upstairs^up^downstairs^down^gone^comeback^at^dead^died^going^went^go^from^here^orbit^location^
+>called=^name^
+>when=^monday^tuesday^wednesday^thursday^friday^saturday^sunday^january^febuary^march^april^may^june^july^august^september^october^november^december^minute^hour^day^week^month^year^winter^summer^autumn^spring^decade^yesterday^today^tomorrow^ago^evening^afternoon^morning^after^later^tonight^christmas^on^birthday^
+>born=^birthday^date of birth^
+>why=^because^reason^cause^led to^
+>is=^are^
+>are=^is^
+>big=^diameter^size^large^massive^huge^enormous^immense^gigantic^giant^tremendous^colossal^
+>size=^big^small^tiny^huge^massive^enormous^tall^large^narrow^
+>weight=^heavy^light^tiny^pounds^stones^kilo^kilogram^gram^weighs^huge^underweight^obese^
+>temperature=^hot^cold^warm^humid^freezing^chilly^burning^boiling^frozen^froze^
+>have=^has^own^had^
+>has=^have^
+>can not=^can't^
+>weather=^snowing^raining^storm^pissing down^sleet^hailstone^windy^sunny^climate^
+>emotion=^happy^sad^depressed^pleased^fear^joy^hatred^hate^anger^angry^
+>feeling=^happy^sad^pleased^fear^joy^hated^depressed^chuffed^delighted^fine^bored^frustrated^upset^angry^annoyed^pissed off^content^calm^cold^hot^warm^pissed^bitter^jealous^feel^felt^mood^
+>do=^want^flew^fly^swam^swim^jump^climb^walk^swing^bark^meow^moo^drank^drink^sing^dive^float^run^ran^work^stand^stood^rode^ride^drive^hop^crawl^spoke^type^clean^wait^learn^talk^shout^written^wrote^teach^fight^
+>made of=^glass^metal^plastic^steel^iron^tin^nylon^cotton^wool^concrete^rubber^paper^
+>made out of=^glass^metal^plastic^steel^iron^tin^nylon^cotton^wool^concrete^rubber^paper^
+>made from=^glass^metal^plastic^steel^iron^tin^nylon^cotton^wool^concrete^rubber^paper^
+>old=^year^born^age^few^several^couple^0^1^2^3^4^5^6^7^8^9^one^two^three^four^five^six^seven^eight^nine^ten^eleven^twelve^thirteen^fourteen^fifteen^sixteen^seventeen^eighteeen^nineteen^twenty^thirty^forty^fifty^sixty^seventy^eighty^ninety^hundred^thousand^million^billion^trillion^
+>age=^year^born^old^few^several^couple^0^1^2^3^4^5^6^7^8^9^one^two^three^four^five^six^seven^eight^nine^ten^eleven^twelve^thirteen^fourteen^fifteen^sixteen^seventeen^eighteeen^nineteen^twenty^thirty^forty^fifty^sixty^seventy^eighty^ninety^hundred^thousand^million^billion^trillion^
+>my=^have^
+>use=^used^
+>metal=^steel^iron^silver^gold^aluminium^copper^tin^
+>had a hit=^sang^
+>book=^novel^large amount of sheets of paper which are bound together and have words written upon them^
+>own=^have^
+>had=^have^
+>ride=^rode^ridden^
+>rode=^ride^
+>ridden=^ride^
+>run=^ran^
+>ran=^run^
+>swim=^swam^
+>swam=^swim^
+>fly=^flew^flight^
+>flew=^fly^flight^
+>sit=^sat^
+>sat=^sit^
+>stand=^stood^
+>stood=^stand^
+>fall=^fell^tumble^
+>fell=^fall^
+>drink=^drank^tea^coffee^coke^whisky^coca^cola^pepsi^wine^beer^water^lager^cider^milk^whiskey^alcohol^swallow^
+>drank=^drink^
+>eat=^ate^consume^swallow^
+>ate=^eat^
+>sing=^sang^sung^
+>sang=^sing^
+>sung=^sing^
+>steal=^stole^stolen^
+>stole=^steal^
+>stolen=^steal^
+>draw=^drew^
+>drew=^draw^
+>spoken=^speak^
+>speak=^spoken^talk^converse^communicate^
+>say=^said^
+>said=^say^told^
+>told=^said^describe^
+>day=^monday^tuesday^wednesday^thursday^friday^saturday^sunday^daytime^
+>shape=^circle^circular^square^round^triangular^triangle^oval^disc^pyramid^polyhedron^polygon^hexagon^octagon^box^rectangle^rectangular^cube^form^
+>colour=^red^yellow^green^cyan^blue^gray^black^white^purple^orange^grey^indigo^silver^gold^brown^turquoise^pink^reddish^yellowish^greenish^blackish^orangish^grayish^greyish^blueish^whitish^goldish^purplish^silverish^brownish^pinkish^
+>red=^reddish^
+>reddish=^red^
+>blue=^blueish^
+>blueish=^blue^
+>green=^greenish^
+>greenish=^green^
+>vegetable=^carrot^potato^lettuce^cabbage^radish^
+>countries=^england^america^france^germany^switzerland^sweden^austria^australia^belgium^holland^denmark^norway^ireland^nigeria^kenya^russia^spain^portugal^india^pakistan^north^korea^south^china^taiwan^thailand^cuba^vietnam^ukraine^jordan^jamaica^italy^israel^kuwait^latvia^lebanon^liberia^libya^luxemborg^madagascar^maldives^mexico^moldova^malta^monaco^mongolia^morocco^mozambique^namibia^nepal^netherlands^new^zealand^canada^chile^columbia^bulgaria^brazil^botswana^barbados^cameroon^cambodia^egypt^ethiopia^georgia^greece^hungary^iran^iraq^turkey^tunisia^syria^zimbabwe^
+>fruit=^apple^orange^banana^tomato^pear^peach^grape^grapefruit^tangerine^satsuma^nectarine^
+>usa=^united states of america^united states^
+>united states of america=^usa^
+>rodent=^mouse^rat^hamster^gerbil^vole^animal^
+>bird=^chicken^eagle^sparrow^hawk^kestrel^lark^budgie^parrot^pheasant^vulture^pidgeon^falcon^animal^moving target^
+>animal=^cow^pig^sheep^goat^wolf^bear^stag^dear^elephant^rhinoceros^alligator^crocodile^hippopotamus^giraffe^zebra^antelope^hyena^creature^mammal^organism^beast^organism which feeds on living matter^
+>dog=^dog^dingo^bulldog^collie^retriever^poodle^setter^alsatian^mastiff^spaniel^animal^expensive burglar alarm^
+>cat=^cheetah^lion^puma^panther^tabby^leopard^animal^living wallpaper stripper^
+>hippopotamus=^hippo^
+>hippo=^hippopotamus^
+>rhinoceros=^rhino^
+>rhino=^rhinoceros^
+>feel=^feeling^felt^touch^
+>satan=^devil^beelzebub^
+>devil=^satan^
+>beelzebub=^satan^
+>century=^period of 100 years^
+>shirt=^item of clothing that usually has buttons down the front and covers the upper part of the body^
+>happy=^pleased^chuffed^joyful^delighted^glad^
+>pleased=^happy^
+>chuffed=^happy^
+>joyful=^happy^
+>delighted=^happy^
+>will=^would^
+>would=^will^
+>felt=^feel^feeling^
+>were=^was^
+>was=^were^
+>programmed=^made^
+>made=^programmed^created^composed^constructed^built^
+>created=^made^
+>composed=^made^
+>constructed=^made^
+>built=^made^
+>due=^expected^
+>expected=^due^anticipate^
+>me=^i^
+>i=^me^
+>like=^want^
+>want=^like^
+>smart=^intelligent^clever^brainy^ache^
+>intelligent=^smart^clever^
+>clever=^smart^intelligent^wise^
+>brainy=^smart^
+>biggest=^largest^
+>largest=^biggest^
+>mean=^=^
+>==^mean^
+>football=^soccer^footy^large inflated bag of air that is used to distract somebody from kicking i in the knee cap^ball^
+>soccer=^football^
+>footy=^football^
+>abandon=^leave^
+>leave=^abandon^
+>abandoned=^left^alone^
+>left=^abandoned^
+>alone=^abandoned^
+>abbreviate=^shorten^trim^
+>shorten=^abbreviate^
+>trim=^abbreviate^
+>abnormal=^unusual^peculiar^odd^strange^queer^unnatural^weird^eccentric^bizzare^
+>unusual=^abnormal^different^
+>peculiar=^abnormal^
+>odd=^abnormal^
+>strange=^abnormal^
+>queer=^abnormal^gay^
+>unnatural=^abnormal^
+>weird=^abnormal^
+>eccentric=^abnormal^
+>bizzare=^abnormal^
+>abrupt=^sudden^hasty^quick^unexpected^
+>sudden=^abrupt^
+>hasty=^abrupt^
+>quick=^abrupt^
+>unexpected=^abrupt^
+>absurd=^ridiculous^silly^daft^stupid^foolish^idiotic^crazy^nuts^
+>ridiculous=^absurd^
+>silly=^absurd^
+>daft=^absurd^
+>stupid=^absurd^
+>foolish=^absurd^
+>idiotic=^absurd^
+>crazy=^absurd^
+>nuts=^absurd^
+>accident=^mistake^
+>mistake=^accident^fault^
+>accurate=^precise^exact^
+>precise=^accurate^
+>exact=^accurate^
+>ache=^pain^hurt^smart^throb^sting^
+>pain=^ache^grief^
+>hurt=^ache^grief^
+>throb=^ache^pulsate^
+>sting=^ache^
+>achieve=^accomplish^complete^fulfil^
+>accomplish=^achieve^
+>complete=^achieve^finish^
+>fulfil=^achieve^
+>aquire=^get^obtain^gain^
+>get=^aquire^obtain^collect^
+>obtain=^aquire^get^
+>gain=^aquire^
+>act=^deed^action^undertaking^
+>deed=^act^
+>action=^act^
+>undertaking=^act^
+>adjust=^modify^regulate^alter^change^adjustment^modification^modified^alteration^
+>modify=^adjust^convert^
+>regulate=^adjust^
+>alter=^adjust^
+>change=^adjust^convert^
+>adjustment=^adjust^
+>modification=^adjust^
+>modified=^adjust^
+>alteration=^adjust^
+>adolescent=^teenager^youth^youngster^kid^
+>teenager=^adolescent^
+>youth=^adolescent^
+>youngster=^adolescent^
+>kid=^adolescent^
+>afraid=^scared^fearful^fear^
+>scared=^afraid^fear^frightened^
+>fearful=^afraid^
+>alcohol=^beer^booze^drink^
+>beer=^alcohol^
+>booze=^alcohol^
+>almost=^nearly^
+>nearly=^almost^
+>amazing=^wonderful^remarkable^great^fabulous^stunning^awesome^dazzling^astounding^marvellous^
+>wonderful=^amazing^marvellous^
+>remarkable=^amazing^
+>great=^amazing^
+>fabulous=^amazing^
+>stunning=^amazing^
+>awesome=^amazing^
+>dazzling=^amazing^
+>astounding=^amazing^marvellous^
+>creature=^animal^
+>mammal=^animal^
+>organism=^animal^living form^
+>beast=^animal^
+>answer=^reply^respond^replied^
+>reply=^answer^reaction^respond^
+>respond=^answer^reply^response^
+>replied=^answer^
+>anticipate=^expect^expected^
+>expect=^anticipate^
+>anxious=^uneasy^troubled^uncertain^apprehensive^
+>uneasy=^anxious^
+>troubled=^anxious^
+>uncertain=^anxious^
+>apprehensive=^anxious^
+>applauded=^clapped^cheered^applausing^clapping^
+>clapped=^applauded^
+>cheered=^applauded^
+>applausing=^applauded^
+>clapping=^applauded^
+>approve=^agree^
+>agree=^approve^
+>argue=^quarrel^fight^squabble^argument^quarreling^fighting^
+>quarrel=^argue^argument^dispute^debate^
+>fight=^argue^battle^brawl^skirmish^wrestle^
+>squabble=^argue^
+>argument=^argue^quarrel^
+>quarreling=^argue^
+>fighting=^argue^
+>ashamed=^embarrassed^humiliated^
+>embarrassed=^ashamed^
+>humiliated=^ashamed^
+>atmosphere=^sky^
+>sky=^atmosphere^
+>attach=^fasten^join^connect^
+>fasten=^attach^
+>join=^attach^unite^connect^
+>connect=^attach^join^
+>attempt=^try^
+>try=^attempt^
+>awful=^bad^terrible^rubbish^crap^horrible^ugly^
+>bad=^awful^
+>terrible=^awful^
+>rubbish=^awful^garbage^junk^
+>crap=^awful^
+>horrible=^awful^foul^
+>ugly=^awful^grotesque^
+>baby=^child^toddler^infant^
+>child=^baby^human^
+>toddler=^baby^
+>infant=^baby^
+>background=^history^experience^qualifications^training^
+>history=^background^
+>experience=^background^
+>qualifications=^background^
+>training=^background^
+>backing=^support^
+>support=^backing^
+>backwards=^reverse^
+>reverse=^backwards^
+>badly=^poorly^carelessly^shoddily^inadequaetly^
+>poorly=^badly^
+>carelessly=^badly^
+>shoddily=^badly^
+>inadequaetly=^badly^
+>bare=^naked^unclothed^nude^unclad^exposed^
+>naked=^bare^
+>unclothed=^bare^
+>nude=^bare^
+>unclad=^bare^
+>exposed=^bare^
+>battle=^fight^war^wrestle^
+>war=^battle^
+>beach=^seashore^shore^
+>seashore=^beach^
+>shore=^beach^
+>beacon=^signal^
+>signal=^beacon^
+>beginning=^start^outset^
+>start=^beginning^
+>outset=^beginning^
+>behave=^react^
+>react=^behave^
+>believe=^think^
+>think=^believe^
+>bend=^curve^corner^
+>curve=^bend^
+>corner=^bend^
+>large=^big^huge^
+>huge=^big^large^
+>enormous=^big^immense^
+>immense=^big^enormous^
+>gigantic=^big^
+>giant=^big^
+>tremendous=^big^
+>colossal=^big^
+>massive=^big^
+>bite=^chew^
+>chew=^bite^
+>blade=^knife^cutting^
+>knife=^blade^slash^
+>cutting=^blade^
+>blame=^fault^accuse^
+>fault=^blame^mistake^error^
+>accuse=^blame^
+>bliss=^happiness^
+>happiness=^bliss^
+>boss=^supervisor^manager^foreman^director^employer^
+>supervisor=^boss^
+>manager=^boss^
+>foreman=^boss^
+>director=^boss^
+>bollocks=^bollox^
+>bollox=^bollocks^
+>brave=^fearless^bold^courageous^daring^valiant^
+>fearless=^brave^
+>bold=^brave^
+>courageous=^brave^
+>daring=^brave^
+>valiant=^brave^
+>brawl=^fight^
+>burglar=^thief^robber^
+>thief=^burglar^robber^
+>robber=^burglar^thief^pickpocket^shoplifter^bandit^
+>buy=^purchase^
+>purchase=^buy^
+>buyer=^purchaser^consumer^customer^
+>purchaser=^buyer^
+>consumer=^buyer^
+>customer=^buyer^
+>cab=^taxi^
+>taxi=^cab^
+>cabin=^hut^shack^
+>hut=^cabin^shed^shack^shelter^shanty^
+>shack=^cabin^hut^
+>cabinet=^cupboard^
+>cupboard=^cabinet^
+>cable=^wire^
+>wire=^cable^
+>calculate=^compute^reckon^
+>compute=^calculate^
+>reckon=^calculate^
+>captive=^prisoner^convict^inmate^
+>prisoner=^captive^inmate^
+>convict=^captive^inmate^
+>careful=^cautious^
+>cautious=^careful^
+>cargo=^shipment^
+>shipment=^cargo^
+>catastrophe=^disaster^
+>disaster=^catastrophe^
+>catch=^caught^
+>caught=^catch^
+>caution=^warning^warn^
+>warning=^caution^
+>chair=^seat^armchair^stool^bench^object that is used by a person to rest their legs^
+>seat=^chair^
+>armchair=^chair^
+>stool=^chair^
+>bench=^chair^
+>chaos=^confusion^disorder^pandemonium^bedlam^
+>confusion=^chaos^
+>disorder=^chaos^
+>pandemonium=^chaos^
+>bedlam=^chaos^
+>cheap=^inexpensive^
+>inexpensive=^cheap^
+>choice=^selection^choose^select^option^
+>selection=^choice^
+>choose=^choice^
+>select=^choice^pick^
+>chop=^cut^
+>cut=^chop^slash^
+>wise=^clever^
+>climate=^weather^
+>coin=^money^cash^
+>money=^coin^
+>cash=^coin^
+>complicated=^complex^
+>complex=^complicated^
+>comprehend=^understand^understood^realize^
+>understand=^comprehend^
+>understood=^comprehend^
+>realize=^comprehend^
+>consume=^eat^swallow^
+>convert=^change^modify^transform^
+>transform=^convert^
+>couch=^sofa^settee^
+>sofa=^couch^
+>settee=^couch^
+>create=^invent^construct^make^
+>invent=^create^
+>construct=^create^
+>make=^create^
+>creator=^inventor^invented^
+>inventor=^creator^
+>invented=^creator^
+>curious=^inquisitive^interested^
+>inquisitive=^curious^
+>interested=^curious^
+>cute=^pretty^
+>pretty=^cute^
+>dark=^unlit^
+>unlit=^dark^
+>data=^information^
+>information=^data^
+>daytime=^day^
+>dance=^boogie^
+>boogie=^dance^
+>daylight=^sunlight^light^
+>sunlight=^daylight^
+>light=^daylight^
+>dead=^deceased^died^lifeless^
+>deceased=^dead^
+>died=^dead^
+>lifeless=^dead^
+>deadly=^lethal^dangerous^
+>lethal=^deadly^
+>dangerous=^deadly^
+>decay=^rot^
+>rot=^decay^
+>demonstrate=^show^
+>show=^demonstrate^display^
+>depend=^rely^
+>rely=^depend^
+>describe=^tell^told^explain^
+>tell=^describe^
+>explain=^describe^
+>destiny=^fate^future^
+>fate=^destiny^
+>future=^destiny^
+>destruction=^demolition^
+>demolition=^destruction^
+>devious=^sneaky^deceitful^insincere^deceptive^dishonest^shifty^sly^
+>sneaky=^devious^
+>deceitful=^devious^
+>insincere=^devious^
+>deceptive=^devious^
+>dishonest=^devious^
+>shifty=^devious^
+>sly=^devious^
+>die=^decease^killed^murdered^
+>decease=^die^
+>killed=^die^
+>murdered=^die^
+>difficult=^hard^tough^
+>hard=^difficult^rigid^stiff^inflexible^tough^
+>tough=^difficult^ruthless^hard^
+>dirt=^soil^mud^
+>soil=^dirt^
+>mud=^dirt^
+>dirty=^grimy^filthy^mucky^unclean^foul^untidy^soiled^
+>grimy=^dirty^
+>filthy=^dirty^
+>mucky=^dirty^
+>unclean=^dirty^
+>foul=^dirty^disgusting^revolting^nauseating^repugnant^repulsive^horrible^
+>untidy=^dirty^messy^
+>soiled=^dirty^
+>discovered=^found^unearthed^
+>found=^discovered^
+>unearthed=^discovered^
+>doubt=^unsure^doubtful^
+>unsure=^doubt^
+>doubtful=^doubt^
+>drag=^pull^
+>pull=^drag^tug^
+>dread=^fear^
+>fear=^dread^scared^afraid^phobia^
+>drug=^medication^medicine^
+>medication=^drug^
+>medicine=^drug^
+>dungeon=^prision^jail^cell^
+>prision=^dungeon^
+>jail=^dungeon^prison^
+>cell=^dungeon^
+>easy=^simple^
+>simple=^easy^
+>educate=^teach^inform^enlighten^
+>teach=^educate^instruct^
+>inform=^educate^
+>enlighten=^educate^
+>emerge=^appear^
+>appear=^emerge^
+>employer=^boss^
+>employee=^worker^
+>worker=^employee^labourer^
+>entrance=^door^
+>door=^entrance^barrier that can block the opening to a place^
+>enviroment=^surroundings^
+>surroundings=^enviroment^
+>erotic=^sexy^sensual^
+>sexy=^erotic^
+>sensual=^erotic^
+>evidence=^proof^
+>proof=^evidence^
+>exterior=^outside^
+>outside=^exterior^
+>eye=^eyeball^
+>eyeball=^eye^
+>fan=^supporter^groupie^
+>supporter=^fan^
+>groupie=^fan^
+>fat=^obese^overweight^tubby^chubby^podgy^
+>obese=^fat^
+>overweight=^fat^
+>tubby=^fat^
+>chubby=^fat^
+>podgy=^fat^
+>father=^dad^daddy^papa^parent^
+>dad=^father^
+>daddy=^father^
+>papa=^father^
+>error=^fault^
+>phone=^telephone^tel^
+>telephone=^phone^tel^
+>tel=^telephone^phone^
+>fee=^price^cost^fare^
+>fare=^fee^
+>mood=^feeling^temper^
+>feed=^food^
+>food=^feed^meal^
+>fetch=^bring^
+>bring=^fetch^
+>fib=^lie^
+>lie=^fib^
+>film=^video^movie^
+>video=^film^
+>movie=^film^
+>finish=^stop^end^cease^complete^
+>stop=^finish^halt^
+>end=^finish^
+>cease=^finish^
+>fire=^flame^blaze^inferno^
+>flame=^fire^
+>blaze=^fire^
+>inferno=^fire^
+>fix=^repair^
+>repair=^fix^
+>flavour=^taste^
+>taste=^flavour^
+>flight=^fly^flew^flown^soar^
+>flown=^flight^
+>soar=^flight^
+>float=^hover^glide^
+>hover=^float^
+>glide=^float^
+>floor=^ground^deck^
+>ground=^floor^
+>deck=^floor^
+>fluid=^liquid^watery^
+>liquid=^fluid^
+>watery=^fluid^
+>forgive=^pardon^
+>pardon=^forgive^
+>form=^shape^
+>former=^previous^
+>previous=^former^
+>disgusting=^foul^
+>revolting=^foul^
+>nauseating=^foul^
+>repugnant=^foul^
+>repulsive=^foul^
+>fragile=^breakable^frail^delicate^flimsy^rickety^
+>breakable=^fragile^
+>frail=^fragile^weak^
+>delicate=^fragile^
+>flimsy=^fragile^
+>rickety=^fragile^
+>fragment=^piece^part^portion^
+>piece=^fragment^
+>part=^fragment^
+>portion=^fragment^
+>freedom=^independence^liberty^
+>independence=^freedom^
+>liberty=^freedom^
+>freezing=^cold^frosty^polar^
+>cold=^freezing^
+>frosty=^freezing^
+>fresh=^new^
+>new=^fresh^
+>friend=^pal^mate^chum^companion^buddy^playmate^
+>pal=^friend^
+>mate=^friend^
+>chum=^friend^
+>companion=^friend^
+>buddy=^friend^
+>friendly=^sociable^
+>sociable=^friendly^
+>frighten=^scare^alarm^startle^
+>scare=^frighten^
+>alarm=^frighten^
+>startle=^frighten^
+>fun=^pleasure^recreation^
+>pleasure=^fun^
+>recreation=^fun^
+>function=^purpose^aim^
+>purpose=^function^
+>aim=^function^
+>funny=^comical^humorous^hilarious^witty^
+>comical=^funny^
+>humorous=^funny^
+>hilarious=^funny^
+>witty=^funny^
+>gadget=^device^
+>device=^gadget^
+>gangster=^criminal^racketeer^mafioso^gunman^mobster^goon^
+>criminal=^gangster^
+>racketeer=^gangster^
+>mafioso=^gangster^
+>gunman=^gangster^
+>mobster=^gangster^
+>goon=^gangster^
+>garbage=^rubbish^
+>gay=^homosexual^queer^faggot^
+>homosexual=^gay^
+>faggot=^gay^
+>genuine=^authentic^real^legitimate^
+>authentic=^genuine^
+>real=^genuine^
+>legitimate=^genuine^
+>germ=^virus^bacteria^bacterium^
+>virus=^germ^
+>bacteria=^germ^
+>bacterium=^germ^
+>collect=^get^
+>gibberish=^drivel^nonsense^claptrap^
+>drivel=^gibberish^
+>nonsense=^gibberish^
+>claptrap=^gibberish^
+>glad=^happy^
+>glamorous=^attractive^
+>attractive=^glamorous^
+>glance=^glimpse^look^
+>glimpse=^glance^
+>look=^glance^
+>global=^worldwide^international^
+>worldwide=^global^
+>international=^global^
+>globe=^world^
+>world=^globe^
+>glossy=^shiny^
+>shiny=^glossy^
+>glue=^adhesive^sticky^stick^
+>adhesive=^glue^
+>sticky=^glue^
+>stick=^glue^
+>god=^deity^demigod^
+>deity=^god^
+>demigod=^god^
+>gory=^bloody^gruesome^grisly^horrific^
+>bloody=^gory^
+>gruesome=^gory^
+>grisly=^gory^
+>horrific=^gory^
+>grace=^elegance^graceful^refined^elegant^
+>elegance=^grace^
+>graceful=^grace^
+>refined=^grace^
+>elegant=^grace^
+>grateful=^thankful^appreciate^appreciative^
+>thankful=^grateful^
+>appreciate=^grateful^
+>appreciative=^grateful^
+>grief=^misery^anguish^suffering^agony^pain^hurt^sadness^sorrow^depression^depressed^unhappy^unhappiness^
+>misery=^grief^
+>anguish=^grief^
+>suffering=^grief^
+>agony=^grief^
+>sadness=^grief^
+>sorrow=^grief^
+>depression=^grief^
+>depressed=^grief^heartbroken^
+>unhappy=^grief^heartbroken^
+>unhappiness=^grief^
+>grip=^hold^grasp^
+>hold=^grip^
+>grasp=^grip^
+>grotesque=^ugly^deformed^
+>deformed=^grotesque^
+>grownup=^adult^
+>adult=^grownup^
+>guess=^speculate^estimate^
+>speculate=^guess^
+>estimate=^guess^
+>guest=^visitor^
+>visitor=^guest^
+>guide=^lead^direct^steer^
+>lead=^guide^
+>direct=^guide^
+>steer=^guide^
+>guy=^man^lad^fella^chap^geezer^bloke^
+>man=^guy^human^
+>lad=^guy^
+>fella=^guy^
+>chap=^guy^
+>geezer=^guy^
+>bloke=^guy^
+>hairless=^bald^
+>bald=^hairless^
+>halfwit=^dunce^fool^idiot^
+>dunce=^halfwit^
+>fool=^halfwit^
+>idiot=^halfwit^
+>hall=^corridor^hallway^passage^
+>corridor=^hall^
+>hallway=^hall^
+>passage=^hall^
+>hallucination=^fantasy^mirage^illusion^delusion^dream^
+>fantasy=^hallucination^
+>mirage=^hallucination^
+>illusion=^hallucination^
+>delusion=^hallucination^
+>dream=^hallucination^
+>halt=^stop^
+>harbour=^port^
+>port=^harbour^
+>rigid=^hard^
+>stiff=^hard^
+>inflexible=^hard^
+>hardly=^scarcely^barely^
+>scarcely=^hardly^
+>barely=^hardly^
+>headache=^migraine^
+>migraine=^headache^
+>hear=^listen^
+>listen=^hear^
+>heartbroken=^unhappy^upset^miserable^depressed^
+>upset=^heartbroken^
+>miserable=^heartbroken^
+>heat=^warmth^hotness^
+>warmth=^heat^
+>hotness=^heat^
+>heaven=^paradise^
+>paradise=^heaven^
+>hectic=^chaotic^
+>chaotic=^hectic^
+>hidden=^concealed^hide^
+>concealed=^hidden^
+>hide=^hidden^
+>high=^tall^
+>tall=^high^
+>hit=^strike^smack^knock^whack^bang^thump^punch^
+>strike=^hit^
+>smack=^hit^slap^
+>knock=^hit^
+>whack=^hit^
+>bang=^hit^
+>thump=^hit^
+>punch=^hit^
+>home=^house^residence^dwelling^
+>house=^home^
+>residence=^home^
+>dwelling=^home^
+>hop=^jump^leap^vault^
+>jump=^hop^
+>leap=^hop^
+>vault=^hop^
+>hope=^wish^
+>wish=^hope^
+>hot=^fiery^burning^
+>fiery=^hot^
+>burning=^hot^
+>hub=^centre^
+>centre=^hub^
+>hug=^embrace^cuddle^snuggle^
+>embrace=^hug^
+>cuddle=^hug^
+>snuggle=^hug^
+>human=^person^individual^man^child^woman^someone^somebody^
+>person=^human^
+>individual=^human^
+>woman=^human^
+>someone=^human^
+>somebody=^human^
+>humble=^modest^
+>modest=^humble^
+>humid=^damp^
+>damp=^humid^wet^
+>humour=^comedy^
+>comedy=^humour^
+>hungry=^famished^starved^starving^ravenous^
+>famished=^hungry^
+>starved=^hungry^
+>starving=^hungry^
+>ravenous=^hungry^
+>hunt=^chase^pursue^
+>chase=^hunt^
+>pursue=^hunt^
+>hurricane=^cyclone^tornado^typhoon^whirlwind^twister^storm^gale^
+>cyclone=^hurricane^
+>tornado=^hurricane^
+>typhoon=^hurricane^
+>whirlwind=^hurricane^
+>twister=^hurricane^
+>storm=^hurricane^
+>gale=^hurricane^
+>hurry=^rush^
+>rush=^hurry^
+>shed=^hut^
+>shelter=^hut^
+>shanty=^hut^
+>idea=^concept^
+>concept=^idea^
+>idealistic=^visionary^
+>visionary=^idealistic^
+>identical=^same^
+>same=^identical^
+>idolize=^adore^admire^
+>adore=^idolize^
+>admire=^idolize^
+>illness=^sickness^
+>sickness=^illness^
+>imitate=^mimic^copy^imitation^copying^
+>mimic=^imitate^
+>copy=^imitate^
+>imitation=^imitate^
+>copying=^imitate^
+>imature=^childish^
+>childish=^imature^
+>increase=^grow^grown^
+>grow=^increase^
+>grown=^increase^
+>infer=^deduce^
+>deduce=^infer^
+>initial=^original^first^
+>original=^initial^
+>first=^initial^
+>inmate=^prisoner^convict^captive^jailbird^
+>jailbird=^inmate^
+>inside=^interior^contents^
+>interior=^inside^
+>contents=^inside^
+>inspect=^examine^
+>examine=^inspect^probe^
+>instruct=^teach^
+>instructor=^teacher^trainer^tutor^educator^
+>teacher=^instructor^schoolteacher^
+>trainer=^instructor^
+>tutor=^instructor^
+>educator=^instructor^
+>insult=^offend^abuse^
+>offend=^insult^
+>abuse=^insult^
+>intelligence=^intellect^brainpower^
+>intellect=^intelligence^
+>brainpower=^intelligence^
+>interrogating=^questioning^
+>questioning=^interrogating^
+>involve=^include^
+>include=^involve^
+>prison=^jail^
+>job=^work^employment^
+>work=^job^function^employ^
+>employment=^job^
+>employ=^work^
+>unite=^join^
+>jolly=^merry^
+>merry=^jolly^
+>journey=^trip^travel^expedition^
+>trip=^journey^
+>travel=^journey^
+>expedition=^journey^
+>judge=^magistrate^
+>magistrate=^judge^
+>junk=^rubbish^waste^litter^debris^scrap^trash^
+>waste=^junk^
+>litter=^junk^
+>debris=^junk^
+>scrap=^junk^
+>trash=^junk^
+>killer=^murderer^assassin^slayer^
+>murderer=^killer^
+>assassin=^killer^
+>slayer=^killer^
+>knowledge=^knowing^awareness^
+>knowing=^knowledge^
+>awareness=^knowledge^
+>laugh=^giggle^snigger^snicker^chuckle^laughter^giggling^
+>giggle=^laugh^
+>snigger=^laugh^
+>snicker=^laugh^
+>chuckle=^laugh^
+>laughter=^laugh^
+>giggling=^laugh^
+>lavatory=^toilet^loo^bog^
+>toilet=^lavatory^
+>loo=^lavatory^
+>bog=^lavatory^
+>lawn=^grass^
+>grass=^lawn^
+>life=^living^
+>living=^life^live^
+>limit=^limitation^
+>limitation=^limit^
+>little=^small^tiny^mini^undersized^dwarf^midget^pygmy^petite^miniature^
+>small=^little^
+>tiny=^little^
+>mini=^little^
+>undersized=^little^
+>dwarf=^little^
+>midget=^little^
+>pygmy=^little^
+>petite=^little^
+>miniature=^little^
+>live=^living^
+>place=^location^
+>loser=^failure^
+>failure=^loser^
+>lottery=^raffle^
+>raffle=^lottery^
+>love=^affection^
+>affection=^love^
+>lure=^tempt^
+>tempt=^lure^
+>lunge=^thrust^
+>thrust=^lunge^
+>marvellous=^wonderful^astonishing^amazing^astounding^
+>astonishing=^marvellous^
+>massacre=^slaughter^carnage^annihilation^
+>slaughter=^massacre^
+>carnage=^massacre^
+>annihilation=^massacre^
+>massage=^rub^
+>rub=^massage^
+>maybe=^perhaps^possibly^
+>perhaps=^maybe^possibly^
+>possibly=^maybe^perhaps^
+>meadow=^field^
+>field=^meadow^
+>meal=^food^dinner^supper^breakfast^lunch^tea^
+>dinner=^meal^
+>supper=^meal^
+>breakfast=^meal^
+>lunch=^meal^
+>tea=^meal^
+>meat=^flesh^
+>flesh=^meat^
+>melody=^song^tune^music^
+>song=^melody^tune^ditty^
+>tune=^melody^song^
+>music=^melody^
+>mighty=^powerful^strong^
+>powerful=^mighty^strong^
+>strong=^mighty^powerful^muscular^
+>mirror=^reflect^reflection^
+>reflect=^mirror^
+>reflection=^mirror^
+>moan=^complain^
+>complain=^moan^
+>monster=^ogre^fiend^troll^dragon^mutant^
+>ogre=^monster^
+>fiend=^monster^
+>troll=^monster^
+>dragon=^monster^
+>mutant=^monster^
+>mouth=^lips^
+>lips=^mouth^
+>mushy=^soft^
+>soft=^mushy^
+>musical=^tuneful^melodic^harmonious^
+>tuneful=^musical^
+>melodic=^musical^
+>harmonious=^musical^
+>mystery=^mysterious^enigma^baffling^mystery to unknown^
+>mysterious=^mystery^
+>enigma=^mystery^
+>baffling=^mystery^
+>nap=^sleep^doze^nod^shuteye^
+>sleep=^nap^
+>doze=^nap^
+>nod=^nap^
+>shuteye=^nap^
+>need=^require^
+>require=^need^
+>nil=^nothing^zero^nought^naught^
+>nothing=^nil^
+>zero=^nil^
+>nought=^nil^
+>naught=^nil^
+>nimble=^agile^
+>agile=^nimble^
+>noise=^sound^
+>sound=^noise^
+>noisy=^load^deafening^
+>load=^noisy^
+>deafening=^noisy^
+>nuclear=^atomic^
+>atomic=^nuclear^
+>numeral=^number^
+>intger=^number^
+>figure=^number^
+>digit=^number^
+>oar=^paddle^
+>paddle=^oar^
+>ocean=^sea^
+>sea=^ocean^
+>often=^regularly^
+>regularly=^often^
+>opinion=^view^
+>view=^opinion^
+>option=^choice^
+>package=^parcel^
+>parcel=^package^
+>paper=^newspaper^tabloid^
+>newspaper=^paper^
+>tabloid=^paper^
+>parasite=^leech^bloodsucker^
+>leech=^parasite^
+>bloodsucker=^parasite^
+>parent=^father^mother^
+>mother=^parent^
+>particle=^atom^molecule^
+>atom=^particle^
+>molecule=^particle^
+>phobia=^fear^
+>pick=^select^
+>pierce=^puncture^penetrate^
+>puncture=^pierce^
+>penetrate=^pierce^
+>pistol=^gun^handgun^revolver^
+>gun=^pistol^
+>handgun=^pistol^
+>revolver=^pistol^
+>plague=^epidemic^
+>epidemic=^plague^
+>playmate=^friend^
+>plaything=^toy^game^pasttime^
+>toy=^plaything^
+>game=^plaything^
+>pasttime=^plaything^
+>playwright=^dramatist^scriptwriter^screenwriter^
+>dramatist=^playwright^
+>scriptwriter=^playwright^
+>screenwriter=^playwright^
+>plea=^request^
+>request=^plea^
+>pleasant=^pleasing^nice^
+>pleasing=^pleasant^
+>nice=^pleasant^
+>pledge=^promise^
+>promise=^pledge^
+>plenty=^abundance^
+>abundance=^plenty^
+>plot=^scheme^plan^
+>scheme=^plot^
+>plan=^plot^
+>poem=^verse^rhyme^
+>verse=^poem^
+>rhyme=^poem^
+>poetic=^poetry^
+>poetry=^poetic^
+>poke=^jab^prod^
+>jab=^poke^
+>prod=^poke^
+>polar=^arctic^antartic^icy^freezing^
+>arctic=^polar^
+>antartic=^polar^
+>icy=^polar^
+>polish=^shine^
+>shine=^polish^sparkle^
+>polite=^courteous^
+>courteous=^polite^
+>pool=^pond^lake^
+>pond=^pool^
+>lake=^pool^
+>possibility=^chance^odds^
+>chance=^possibility^
+>odds=^possibility^
+>possible=^feasible^plausible^
+>feasible=^possible^
+>plausible=^possible^
+>prize=^reward^award^trophy^
+>reward=^prize^
+>award=^prize^
+>trophy=^prize^
+>probe=^explore^examine^
+>explore=^probe^
+>proper=^right^
+>right=^proper^
+>pulsate=^pulse^throb^throbbing^pusling^pulsating^pulsation^
+>pulse=^pulsate^
+>throbbing=^pulsate^
+>pusling=^pulsate^
+>pulsating=^pulsate^
+>pulsation=^pulsate^
+>purge=^clean^
+>clean=^purge^
+>push=^shove^
+>shove=^push^
+>dispute=^quarrel^
+>debate=^quarrel^
+>quickly=^rapidly^swiftly^fast^
+>rapidly=^quickly^
+>swiftly=^quickly^
+>fast=^quickly^
+>quiet=^silent^silence^
+>silent=^quiet^
+>silence=^quiet^
+>railway=^train^rail^
+>train=^railway^
+>rail=^railway^
+>rain=^drizzle^downpour^shower^cloudburst^rainstorm^
+>drizzle=^rain^
+>downpour=^rain^
+>shower=^rain^
+>cloudburst=^rain^
+>rainstorm=^rain^
+>raw=^uncooked^
+>uncooked=^raw^
+>reaction=^response^reply^
+>response=^reaction^respond^
+>reek=^stink^smell^
+>stink=^reek^
+>smell=^reek^
+>remain=^stay^wait^
+>stay=^remain^
+>wait=^remain^
+>remedy=^cure^
+>cure=^remedy^
+>rinse=^wash^
+>wash=^rinse^
+>rip=^tear^torn^
+>tear=^rip^
+>torn=^rip^
+>risk=^danger^hazard^
+>danger=^risk^
+>hazard=^risk^
+>river=^stream^waterway^
+>stream=^river^
+>waterway=^river^
+>pickpocket=^robber^
+>shoplifter=^robber^
+>bandit=^robber^
+>runner=^jogger^sprinter^
+>jogger=^runner^
+>sprinter=^runner^
+>ruthless=^cruel^brutal^tough^heartless^sadistic^
+>cruel=^ruthless^
+>brutal=^ruthless^
+>heartless=^ruthless^
+>sadistic=^ruthless^
+>salary=^income^earnings^
+>income=^salary^
+>earnings=^salary^
+>frightened=^scared^
+>schoolteacher=^teacher^
+>selfish=^greedy^
+>greedy=^selfish^
+>display=^show^
+>shut=^close^
+>close=^shut^
+>sincere=^honest^
+>honest=^sincere^
+>skinny=^thin^underweight^gaunt^bony^scraggy^lanky^gangly^
+>thin=^skinny^
+>underweight=^skinny^
+>gaunt=^skinny^
+>bony=^skinny^
+>scraggy=^skinny^
+>lanky=^skinny^
+>gangly=^skinny^
+>skirmish=^fight^
+>slap=^smack^spank^
+>spank=^slap^
+>slash=^cut^gash^slit^knife^
+>gash=^slash^
+>slit=^slash^
+>slip=^slide^skid^
+>slide=^slip^
+>skid=^slip^
+>snake=^reptile^serpent^viper^slither^
+>reptile=^snake^
+>serpent=^snake^
+>viper=^snake^
+>slither=^snake^
+>snap=^break^fracture^snapped^
+>break=^snap^
+>fracture=^snap^
+>snapped=^snap^
+>soak=^drench^wet^dripping^
+>drench=^soak^
+>wet=^soak^moist^damp^soaked^
+>dripping=^soak^
+>ditty=^song^
+>sore=^painful^tender^stinging^hurting^
+>painful=^sore^
+>tender=^sore^
+>stinging=^sore^
+>hurting=^sore^
+>sparkle=^shine^glitter^
+>glitter=^sparkle^
+>talk=^speak^chat^
+>converse=^speak^
+>communicate=^speak^
+>split=^divided^
+>divided=^split^
+>spoil=^ruin^
+>ruin=^spoil^
+>square=^rectangular^
+>rectangular=^square^
+>squeeze=^squash^crush^
+>squash=^squeeze^
+>crush=^squeeze^
+>stack=^pile^
+>pile=^stack^
+>state=^condition^
+>condition=^state^
+>statue=^sculpture^statuesque^
+>sculpture=^statue^
+>statuesque=^statue^
+>stomach=^abdomen^belly^gut^tummy^
+>abdomen=^stomach^
+>belly=^stomach^
+>gut=^stomach^
+>tummy=^stomach^
+>story=^tale^
+>tale=^story^
+>muscular=^strong^
+>study=^learn^
+>learn=^study^
+>suitcase=^bag^
+>bag=^suitcase^
+>sum=^total^
+>total=^sum^
+>sure=^certain^convinced^positive^
+>certain=^sure^
+>convinced=^sure^
+>positive=^sure^
+>swallow=^eat^consume^devour^drink^gulp^guzzle^
+>devour=^swallow^
+>gulp=^swallow^
+>guzzle=^swallow^
+>sweep=^brush^
+>brush=^sweep^
+>temper=^mood^
+>tidy=^neat^
+>neat=^tidy^
+>tilt=^lean^slant^
+>lean=^tilt^
+>slant=^tilt^
+>touch=^feel^
+>tug=^pull^tow^
+>tow=^tug^
+>tumble=^fall^
+>teeth=^tooth^
+>tooth=^teeth^
+>unlike=^different^
+>different=^unlike^unusual^
+>messy=^untidy^
+>warn=^caution^
+>water=^h2o^
+>h2o=^water^
+>weak=^feeble^frail^powerless^
+>feeble=^weak^
+>powerless=^weak^
+>welcome=^greet^
+>greet=^welcome^
+>moist=^wet^
+>soaked=^wet^
+>whole=^entire^
+>entire=^whole^
+>wild=^savage^untamed^
+>savage=^wild^
+>untamed=^wild^
+>wind=^breeze^
+>breeze=^wind^
+>labourer=^worker^
+>wrestle=^fight^battle^
+>write=^scribble^
+>scribble=^write^
+>writer=^author^novelist^
+>author=^writer^
+>novelist=^writer^
+>writing=^handwriting^
+>handwriting=^writing^
+>susan=^sue^
+>sue=^susan^
+>lesley=^les^
+>les=^lesley^
+>david=^dave^
+>dave=^david^
+>cathleen=^cath^
+>cath=^cathleen^
+>stewart=^stew^
+>stew=^stewart^
+>michael=^mick^
+>mick=^michael^
+>steven=^steve^
+>steve=^steven^
+>thomas=^tom^
+>tom=^thomas^
+>andrew=^andy^
+>andy=^andrew^
+>valerie=^val^
+>val=^valerie^
+>edward=^ed^
+>ed=^edward^
+>planet=^celestial body that moves in an elliptical orbit round a star^jupiter^saturn^neptune^earth^uranus^venus^mercury^mars^pluto^
+>star=^celestial body that appears as a luminous point in the night sky^large gaseous body that is naturally luminous from internal nuclear reactions^
+>america=^united states^
+>human being=^highly intelligent two legged animal^
+>language=^means of communication^
+>leg=^support that something stands upon^
+>arm=^flexible part of something that is used to manipulate other things^
+>computer=^device for storing and processing information^machine for storing and processing data^
+>computer keyboard=^device for catching crumbs^
+>robot=^machine that resembles a human being in one way or another^
+>carpet=^large piece of soft fabric used to soak up alcohol, vomit and urine^
+>joystick=^device that is usually used for playing video games^
+>fish=^cold-blooded animal with gills and fins^
+>television=^electronic device that receives transmitted images and sounds and reproduces them^
+>radio=^electronic device that receives transmitted sounds and reproduces them^
+>ball=^football^
+>go around=^orbit^
+>orbit=^go around^
+>pub=^good place for getting drunk^
+>fuck=^sexual intercourse^shag^
+>sexual intercourse=^fuck^shag^
+>shag=^sexual intercourse^fuck^
+>chat=^talk^
+>name=^word by which something is known^
+>ai=^artificial intelligence^
+>artificial intelligence=^ai^
+>ascii=^american standard code for information interchange^
+>american standard code for information interchange=^ascii^
+>cloud=^big white fluffy thing that waits for i to walk out into the open before dripping water onto my head^
+>light bulb=^glass bulb containing an inert gas and a metal filament, providing light when an electric current is passed through it^
+>window=^opening to allow light to enter or let the occupants see out^
+>alien=^person who comes from a foreign country or something that comes from another planet^
+

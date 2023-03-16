@@ -1,0 +1,131 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Infobot\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\SPEECH\VDICT.DLL=
+C:\WINDOWS\SPEECH\XVOICE.DLL=
+C:\WINDOWS\MSAGENT\AGENTCTL.DLL=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\scrrun.dll=
+
+[Package|Standard Setup Package 1|Files Added]
+D:\Infobot\Memory.Txt=
+D:\Infobot\Readme.txt=
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\windows\msagent\agentctl.dll=
+c:\program files\common files\microsoft shared\dao\dao350.dll=
+c:\windows\system\expsrv.dll=
+c:\windows\system\msjet35.dll=
+c:\windows\system\msjint35.dll=
+c:\windows\system\msjter35.dll=
+c:\windows\system\msrd2x35.dll=
+c:\windows\system\msrepl35.dll=
+c:\windows\system\msvcrt.dll=
+d:\microsoft visual studio\vb98\wizards\pdwizard\redist\msvcrt40.dll=
+c:\windows\system\scrrun.dll=
+c:\windows\system\vb5db.dll=
+c:\windows\system\msvbvm60.dll=
+c:\windows\system\oleaut32.dll=
+c:\windows\system\olepro32.dll=
+c:\windows\system\asycfilt.dll=
+c:\windows\system\stdole2.tlb=
+d:\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\windows\system\vbajet32.dll=
+c:\windows\speech\vdict.dll=
+c:\windows\speech\xvoice.dll=
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\Infobot\Infobot.exe=Yes
+C:\WINDOWS\SYSTEM\msvbvm60.dll=No
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=No
+C:\WINDOWS\SYSTEM\olepro32.dll=No
+C:\WINDOWS\SYSTEM\asycfilt.dll=No
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=No
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=No
+C:\WINDOWS\SYSTEM\MSJET35.DLL=No
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=No
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=No
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=No
+C:\WINDOWS\SYSTEM\expsrv.dll=No
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=No
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=No
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=No
+C:\WINDOWS\SYSTEM\VB5DB.DLL=No
+C:\WINDOWS\MSAGENT\AGENTCTL.DLL=No
+C:\WINDOWS\SPEECH\XVOICE.DLL=No
+C:\WINDOWS\SPEECH\VDICT.DLL=No
+C:\WINDOWS\SYSTEM\scrrun.dll=No
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=No
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Infobot\Memory.Txt=Yes
+D:\Infobot\Readme.txt=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\Infobot\Infobot.exe=$(AppPath)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Infobot\Memory.Txt=$(AppPath)
+D:\Infobot\Readme.txt=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\Infobot\Infobot.exe=No
+D:\Infobot\Memory.Txt=No
+D:\Infobot\Readme.txt=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Answerpad
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Infobot
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Infobot]
+Icon1=Infobot.exe
+Title1=Infobot
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\Infobot\Package
+ProjectFolder=D:\Infobot
+ServerSideCab=
+File1=D:\Infobot\Package\setup.exe
+File2=D:\Infobot\Package\Setup.Lst
+File3=D:\Infobot\Package\Infobot.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
